@@ -1,0 +1,76 @@
+{
+  "global_caption": "a scene featuring a brown-haired woman in a flower-patterned dress holding a box, a young brown-haired man in a bright blue polo T-shirt and brown short pants holding a tray with a bunch of water bottles with one hand, and wearing brown sandals while holding a box, a black-haired girl in a bright pink tank top and a white skirt wearing pink shoes holding a cute teddy bear and a yellow balloon, a brown picnic box, a street with many trees, a black car parked beside the street and viewed from the side, and a lamp on the street.",
+  "region_captions": [
+    "a brown-haired woman in a flower-patterned dress holding a box",
+    "a young brown-haired man in a bright blue polo T-shirt and brown short pants holding a tray with a bunch of water bottles with one hand, and wearing brown sandals while holding a box",
+    "a black-haired girl in a bright pink tank top and a white skirt wearing pink shoes holding a cute teddy bear and a yellow balloon",
+    "a brown picnic box",
+    "a street with many trees",
+    "a black car parked beside the street and viewed from the side",
+    "a lamp on the street",
+    "a cute teddy bear",
+    "a yellow balloon"
+  ],
+  "region_bboxes": [
+    [
+      -0.005859375,
+      0.53515625,
+      0.201171875,
+      0.97265625
+    ],
+    [
+      0.2295939177274704,
+      0.5127970427274704,
+      0.4835001677274704,
+      0.9776407927274704
+    ],
+    [
+      0.5127970427274704,
+      0.5108439177274704,
+      0.7569376677274704,
+      0.9913126677274704
+    ],
+    [
+      0.7627970427274704,
+      0.6768595427274704,
+      0.9698282927274704,
+      0.9932657927274704
+    ],
+    [
+      0.416015625,
+      0.73828125,
+      0.513671875,
+      0.8359375
+    ],
+    [
+      -0.008687332272529602,
+      0.009765625,
+      0.9737345427274704,
+      0.583984375
+    ],
+    [
+      0.5167032927274704,
+      0.2842814177274704,
+      0.8877970427274704,
+      0.5538126677274704
+    ],
+    [
+      0.1182657927274704,
+      0.0342814177274704,
+      0.3350626677274704,
+      0.5557657927274704
+    ],
+    [
+      0.7002970427274704,
+      0.8096720427274704,
+      0.7979532927274704,
+      0.9073282927274704
+    ],
+    [
+      0.9405314177274704,
+      0.7178751677274704,
+      1.0049845427274704,
+      0.8721720427274704
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "global_caption": "a scene featuring an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes, and a woman wearing a flower-covered white dress who is smiling and is 30 years old",
+  "region_captions": [
+    "an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes",
+    "a woman wearing a flower-covered white dress who is smiling and is 30 years old"
+  ],
+  "region_bboxes": [
+    [
+      0.017578125,
+      0.517578125,
+      0.2421875,
+      0.947265625
+    ],
+    [
+      0.255859375,
+      0.30078125,
+      0.548828125,
+      0.953125
+    ]
+  ]
+}

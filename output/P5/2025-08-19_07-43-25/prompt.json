@@ -1,0 +1,14 @@
+{
+  "global_caption": "a scene featuring an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes",
+  "region_captions": [
+    "an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes"
+  ],
+  "region_bboxes": [
+    [
+      -0.0546875,
+      0.548828125,
+      0.169921875,
+      0.978515625
+    ]
+  ]
+}

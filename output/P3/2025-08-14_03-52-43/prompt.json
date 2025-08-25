@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a man wearing a black hat, staring at a woman and a man on his right, a woman wearing a flower-pattern dress holding her left hand with a man next to her, a girl in a pink shirt and a white skirt holding a yellow balloon with her left hand and a brown teddy bear in her right hand, and a man holding a box of water bottles with his left arm, married to a woman next to him as he holds his left hand with his wife and a brown basket with that hand",
+  "region_captions": [
+    "a man wearing a black hat, staring at a woman and a man on his right",
+    "a woman wearing a flower-pattern dress, holding her left hand with a man next to her",
+    "a girl in a pink shirt and a white skirt, holding a yellow balloon with her left hand and a brown teddy bear in her right hand",
+    "a man holding a box of water bottles with his left arm, married to a woman next to him; he is holding his left hand with his wife and holding a brown basket with that hand"
+  ],
+  "region_bboxes": [
+    [
+      0.0546875,
+      0.5234375,
+      0.2421875,
+      0.943359375
+    ],
+    [
+      0.29296875,
+      0.45703125,
+      0.515625,
+      0.935546875
+    ],
+    [
+      0.775390625,
+      0.619140625,
+      0.943359375,
+      0.943359375
+    ],
+    [
+      0.521484375,
+      0.392578125,
+      0.69140625,
+      0.943359375
+    ]
+  ]
+}

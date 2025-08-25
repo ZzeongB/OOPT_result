@@ -1,0 +1,63 @@
+{
+  "global_caption": "a scene featuring an old guy wearing a black hat walking, a young adult woman wearing a dress facing front, a young adult man wearing a blue shirt and beige shorts facing front, wearing sandals, holding a basket and a bottle, a girl holding a brown teddy bear and a yellow balloon, wearing a pink shirt and white pants, a black sedan car parked facing right, a basket, water bottles, and a bright yellow balloon with a smooth surface.",
+  "region_captions": [
+    "an old guy wearing a black hat walking",
+    "a young adult woman wearing a dress facing front",
+    "a young adult man wearing a blue shirt and beige shorts facing front, wearing sandals, holding a basket and a bottle",
+    "a girl holding a brown teddy bear and a yellow balloon, wearing a pink shirt and white pants",
+    "a black sedan car parked facing right",
+    "a basket",
+    "water bottles",
+    "a bright yellow balloon with a smooth surface"
+  ],
+  "region_bboxes": [
+    [
+      -0.0131683349609375,
+      0.525390625,
+      0.1157379150390625,
+      0.83203125
+    ],
+    [
+      0.2563629150390625,
+      0.359375,
+      0.4438629150390625,
+      0.80078125
+    ],
+    [
+      0.4790191650390625,
+      0.2734375,
+      0.6469879150390625,
+      0.80078125
+    ],
+    [
+      0.7173004150390625,
+      0.53515625,
+      0.8403472900390625,
+      0.7890625
+    ],
+    [
+      0.6313629150390625,
+      0.369140625,
+      0.9321441650390625,
+      0.525390625
+    ],
+    [
+      0.3989410400390625,
+      0.525390625,
+      0.5376129150390625,
+      0.732421875
+    ],
+    [
+      0.6196441650390625,
+      0.13671875,
+      0.9126129150390625,
+      0.236328125
+    ],
+    [
+      0.8462066650390625,
+      0.3515625,
+      0.9438629150390625,
+      0.45703125
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "global_caption": "a scene featuring a grandpa with white hair wearing a black cap, a white shirt, a grey cardigan, and black long pants, with a pair of black shoes, watching a girl; a woman with dark brown, slightly tanned skin wearing a short-sleeved dress that has long small pink and light-blue flower patterns, looking front, holding hands with a male and holding a wooden basket; a dark brown, slightly tanned male with short, curly dark brown hair wearing a short-sleeve blue shirt and beige shorts, looking front, holding a bunch of bottled water; a little girl wearing a hot-pink no-sleeve t-shirt, a white mid-length skirt, and pink sandals, holding a yellow balloon in her left hand and a small brown teddy bear with black eyes in her right hand; and a road with two black cars and a lot of trees with green leaves.",
+  "region_captions": [
+    "a grandpa with white hair wearing a black cap, a white shirt, a grey cardigan, and black long pants, with a pair of black shoes, watching a girl",
+    "a woman with dark brown, slightly tanned skin wearing a short-sleeved dress that has long small pink and light-blue flower patterns, looking front, holding hands with a male and holding a wooden basket",
+    "a dark brown, slightly tanned male with short, curly dark brown hair wearing a short-sleeve blue shirt and beige shorts, looking front, holding a bunch of bottled water",
+    "a little girl wearing a hot-pink no-sleeve t-shirt, a white mid-length skirt, and pink sandals, holding a yellow balloon in her left hand and a small brown teddy bear with black eyes in her right hand",
+    "a road with two black cars and a lot of trees with green leaves",
+    "a bunch of bottled water",
+    "a wooden basket",
+    "a yellow balloon",
+    "a small brown teddy bear with black eyes"
+  ],
+  "region_bboxes": [
+    [
+      0.01007080078125,
+      0.421875,
+      0.18194580078125,
+      0.90625
+    ],
+    [
+      0.244140625,
+      0.275390625,
+      0.4375,
+      0.904296875
+    ],
+    [
+      0.46710205078125,
+      0.21484375,
+      0.70928955078125,
+      0.90234375
+    ],
+    [
+      0.74835205078125,
+      0.57421875,
+      0.89093017578125,
+      0.91015625
+    ],
+    [
+      -0.03875732421875,
+      -0.033203125,
+      0.98272705078125,
+      0.62109375
+    ],
+    [
+      0.63311767578125,
+      0.369140625,
+      0.87725830078125,
+      0.4765625
+    ],
+    [
+      0.35577392578125,
+      0.537109375,
+      0.48468017578125,
+      0.64453125
+    ],
+    [
+      0.87921142578125,
+      0.537109375,
+      0.97686767578125,
+      0.720703125
+    ],
+    [
+      0.728515625,
+      0.708984375,
+      0.810546875,
+      0.828125
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "global_caption": "a scene featuring an old white man wearing a grey cardigan, a white shirt, black pants, and a black artist-style hat, looking at a girl related to a woman, a brown-haired woman in a flower-patterned dress holding a box, a brown-haired man in a bright blue polo T-shirt and brown short pants holding a tray with a bunch of water bottles and a box, a black-haired girl in a bright pink tank top and a white dress wearing pink shoes and holding a yellow balloon connected to a cute teddy bear, a brown picnic box, a street with a black lot tree, a black car, and a lamp on the street.",
+  "region_captions": [
+    "an old white man wearing a grey cardigan, a white shirt, black pants, and a black artist-style hat, looking at a girl related to a woman",
+    "a brown-haired woman in a flower-patterned dress, holding a box",
+    "a brown-haired man in a bright blue polo T-shirt and brown short pants, holding a tray with a bunch of water bottles and a box",
+    "a black-haired girl in a bright pink tank top and a white dress, wearing pink shoes and holding a yellow balloon, connected to a cute teddy bear",
+    "a brown picnic box",
+    "a street with a black lot tree",
+    "a black car",
+    "a lamp on the street"
+  ],
+  "region_bboxes": [
+    [
+      -0.005859375,
+      0.53515625,
+      0.201171875,
+      0.97265625
+    ],
+    [
+      0.2295939177274704,
+      0.5127970427274704,
+      0.4835001677274704,
+      0.9776407927274704
+    ],
+    [
+      0.5127970427274704,
+      0.5108439177274704,
+      0.7569376677274704,
+      0.9913126677274704
+    ],
+    [
+      0.7627970427274704,
+      0.6768595427274704,
+      0.9698282927274704,
+      0.9932657927274704
+    ],
+    [
+      0.416015625,
+      0.73828125,
+      0.513671875,
+      0.8359375
+    ],
+    [
+      -0.008687332272529602,
+      0.009765625,
+      0.9737345427274704,
+      0.583984375
+    ],
+    [
+      0.5167032927274704,
+      0.2842814177274704,
+      0.8877970427274704,
+      0.5538126677274704
+    ],
+    [
+      0.1182657927274704,
+      0.0342814177274704,
+      0.3350626677274704,
+      0.5557657927274704
+    ]
+  ]
+}

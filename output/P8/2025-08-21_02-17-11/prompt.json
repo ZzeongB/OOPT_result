@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a woman taking a picture with her camera, wearing a sky blue sleeveless one-piece and white slippers, holding a new object; a man wearing sunglasses and a white shirt, beige pants, black shoes, and a wristwatch holding a paper map, looking at the woman; a man wearing sunglasses, a green t-shirt, beige short pants, and black shoes with his hands in the pockets of his pants and wearing a wristwatch, looking at the woman; a woman wearing sunglasses, a pink and sky blue flower-patterned blouse, jeans, and black slippers holding a red coffee cup and luggage, looking at the woman; and a street of a European city with yellow buildings, a palm tree in the corner, and some parasols.",
+  "region_captions": [
+    "a woman taking a picture with her camera, wearing a sky blue sleeveless one-piece and white slippers, holding a new object",
+    "a man wearing sunglasses and a white shirt, beige pants, black shoes, and a wristwatch is holding a paper map, looking at the woman",
+    "a man wearing sunglasses, a green t-shirt, beige short pants, and black shoes has his hands in the pockets of his pants and is wearing a wristwatch, looking at the woman",
+    "a woman is wearing sunglasses, a pink and sky blue flower-patterned blouse, jeans, and black slippers, holding a red coffee cup and luggage, looking at the woman",
+    "a street of a European city with yellow buildings, a palm tree in the corner, and some parasols"
+  ],
+  "region_bboxes": [
+    [
+      0.7117776349186897,
+      0.375,
+      0.9637307599186897,
+      0.818359375
+    ],
+    [
+      -0.01171875,
+      0.375,
+      0.20703125,
+      0.810546875
+    ],
+    [
+      0.44782570749521255,
+      0.37531594559550285,
+      0.6861069574952126,
+      0.8128159455955029
+    ],
+    [
+      0.22126320749521255,
+      0.36555032059550285,
+      0.43220070749521255,
+      0.8167221955955029
+    ],
+    [
+      0.021484375,
+      -0.0078125,
+      0.955078125,
+      0.951171875
+    ]
+  ]
+}

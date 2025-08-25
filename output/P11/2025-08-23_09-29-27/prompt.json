@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring an old man with white hair wearing a black beret and a grey cardigan with two black buttons, wearing dark blue pants and black shoes, looking left, a bit short, wearing a white shirt beneath the cardigan; a slightly brown woman with black hair that comes to her shoulders, smiling and looking slightly left, wearing a flower-patterned one-piece dress, holding hands with the man to her left, wearing white sandals; a man with dark brown hair wearing a blue t-shirt and beige shorts, wearing black sandals, holding a large dark plate with lots of water bottles on it in his left hand, and holding a brown basket up to his waist, while the woman on his right is holding his hand with the basket; and a small yellow-brown girl holding a yellow balloon in her left hand and a brown teddy bear in her right hand, wearing a pink sleeveless t-shirt and a white skirt that comes to her knees, wearing pink sneakers, looking slightly to her right.",
+  "region_captions": [
+    "an old man with white hair wearing a black beret and a grey cardigan with two black buttons, wearing dark blue pants and black shoes, looking left, a bit short, wearing a white shirt beneath the cardigan",
+    "a slightly brown woman with black hair that comes to her shoulders, smiling and looking slightly left, wearing a flower-patterned one-piece dress, holding hands with the man to her left, wearing white sandals",
+    "a man with dark brown hair wearing a blue t-shirt and beige shorts, wearing black sandals, holding a large dark plate with lots of water bottles on it in his left hand, and holding a brown basket up to his waist, while the woman on his right is holding his hand with the basket",
+    "a small yellow-brown girl holding a yellow balloon in her left hand and a brown teddy bear in her right hand, wearing a pink sleeveless t-shirt and a white skirt that comes to her knees, wearing pink sneakers, looking slightly to her right"
+  ],
+  "region_bboxes": [
+    [
+      0.0078125,
+      0.388671875,
+      0.15234375,
+      0.990234375
+    ],
+    [
+      0.27734375,
+      0.396484375,
+      0.376953125,
+      0.49609375
+    ],
+    [
+      0.55859375,
+      0.40234375,
+      0.689453125,
+      0.935546875
+    ],
+    [
+      0.837890625,
+      0.396484375,
+      0.9375,
+      0.49609375
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a woman taking a picture of the sky with her camera, wearing a sky blue sleeveless one-piece dress and white slippers, holding a vacation hat and smiling; a cool man with a muscular build wearing sunglasses, a white shirt, beige pants, black men's formal shoes, and a wristwatch, with one hand in his pocket, looking at the woman while holding a paper map; a man wearing a green t-shirt, beige short pants, and black men's formal shoes with his hands in the pockets of his pants and wearing a wristwatch, looking at the woman; a woman wearing a pink and sky blue flower-patterned short-sleeves blouse, short jeans, and black slippers, holding a red coffee cup and luggage, looking at the woman; and a street of a European city with yellow buildings, a palm tree in the corner, and some parasols.",
+  "region_captions": [
+    "a woman taking a picture of the sky with her camera, wearing a sky blue sleeveless one-piece dress and white slippers, holding a vacation hat, and smiling",
+    "a cool man with a muscular build wearing sunglasses, a white shirt, beige pants, black men's formal shoes, and a wristwatch, with one hand in his pocket, looking at the woman while holding a paper map",
+    "a man wearing a green t-shirt, beige short pants, and black men's formal shoes with his hands in the pockets of his pants and wearing a wristwatch, looking at the woman",
+    "a woman wearing a pink and sky blue flower-patterned short-sleeves blouse, short jeans, and black slippers, holding a red coffee cup and luggage, looking at the woman",
+    "a street of a European city with yellow buildings, a palm tree in the corner, and some parasols",
+    "a paper map"
+  ],
+  "region_bboxes": [
+    [
+      0.5920769274234772,
+      0.32976217940449715,
+      0.8440300524234772,
+      0.7731215544044971
+    ],
+    [
+      -0.13141945749521255,
+      0.19109030440449715,
+      0.07365866750478745,
+      0.7672621794044971
+    ],
+    [
+      0.328125,
+      0.330078125,
+      0.56640625,
+      0.767578125
+    ],
+    [
+      0.1015625,
+      0.3203125,
+      0.3125,
+      0.771484375
+    ],
+    [
+      -0.13671875,
+      -0.078125,
+      0.484375,
+      0.07421875
+    ],
+    [
+      -0.13671875,
+      0.44921875,
+      -0.037109375,
+      0.548828125
+    ]
+  ]
+}

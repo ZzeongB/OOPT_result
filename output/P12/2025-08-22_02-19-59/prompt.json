@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a male with short brown hair, around 180 cm, wearing black sunglasses and a black watch on his left wrist, holding a pastel colored big map in his right hand, wearing a short sleeved tight white shirt, beige long pants, and black oxford shoes, looking at the people on the left side; a female with long black hair, 165 cm tall, wearing a pink and blue flower patterned short sleeve shirt, holding a cup of coffee in her left hand, with a silver luggage in front of her, wearing short blue pants and flat slippers, looking to the left; a male with short black hair, wearing a neon green short sleeve shirt and beige knee-length shorts with black sneakers, turning his body slightly to the left, wearing a black and white bracelet on his left wrist; and a woman with medium black hair wearing a sleeveless sky blue dress just below the knee, flat magenta slippers, taking a photo of something above her with her smartphone, holding a straw sun hat in the other hand, all standing in a line and facing forward.",
+  "region_captions": [
+    "a male with short brown hair, around 180 cm, wearing black sunglasses and a black watch on his left wrist, holding a pastel colored big map in his right hand, wearing a short sleeved tight white shirt, beige long pants, and black oxford shoes, looking at the people on the left side, standing in a line, facing forward",
+    "a female with long black hair, 165 cm tall, wearing a pink and blue flower patterned short sleeve shirt, holding a cup of coffee in her left hand, with a silver luggage in front of her, wearing short blue pants and flat slippers, looking to the left, standing in a line, facing forward",
+    "a male with short black hair, wearing a neon green short sleeve shirt and beige knee-length shorts with black sneakers, turning his body slightly to the left, wearing a black and white bracelet on his left wrist, standing in a line, facing forward, without sunglasses",
+    "a woman with medium black hair wearing a sleeveless sky blue dress just below the knee, flat magenta slippers, taking a photo of something above her with her smartphone, holding a straw sun hat in the other hand, standing in a line, facing forward"
+  ],
+  "region_bboxes": [
+    [
+      -0.013671875,
+      0.388671875,
+      0.208984375,
+      0.80859375
+    ],
+    [
+      0.271484375,
+      0.63671875,
+      0.458984375,
+      1
+    ],
+    [
+      0.53515625,
+      0.6171875,
+      0.708984375,
+      1.177734375
+    ],
+    [
+      0.76953125,
+      0.671875,
+      0.953125,
+      1.048828125
+    ]
+  ]
+}

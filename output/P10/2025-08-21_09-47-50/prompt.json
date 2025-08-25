@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a man standing, holding a white paper bag, wearing black sunglasses, a watch, a white shirt, beiji pants, and black shoes, watching the right side; a woman standing, holding a red coffee in her left hand, drawing a grey carrier, wearing a flower-patterned white short-sleeved shirt and blue shorts; a man wearing a green short-sleeved shirt, beiji shorts, a watch around his left hand, and black shoes, watching the right side; a woman wearing a sky blue one-piece dress, taking a picture with her smartphone, watching the phone screen to take the picture, holding a beiji hat in her left hand, and wearing sandals.",
+  "region_captions": [
+    "a man standing, holding a white paper bag, wearing black sunglasses, a watch, a white shirt, beiji pants, and black shoes, watching the right side",
+    "a woman standing, holding a red coffee in her left hand, drawing a grey carrier, wearing a flower-patterned white short-sleeved shirt and blue shorts",
+    "a man wearing a green short-sleeved shirt, beiji shorts, a watch around his left hand, and black shoes, watching the right side",
+    "a woman wearing a sky blue one-piece dress, taking a picture with her smartphone, watching the phone screen to take the picture, holding a beiji hat in her left hand, and wearing sandals"
+  ],
+  "region_bboxes": [
+    [
+      -0.001953125,
+      0.173828125,
+      0.212890625,
+      0.814453125
+    ],
+    [
+      0.248046875,
+      0.298828125,
+      0.4453125,
+      0.818359375
+    ],
+    [
+      0.5078125,
+      0.251953125,
+      0.677734375,
+      0.814453125
+    ],
+    [
+      0.72265625,
+      0.3203125,
+      0.95703125,
+      0.80859375
+    ]
+  ]
+}

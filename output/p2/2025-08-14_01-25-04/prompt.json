@@ -1,0 +1,70 @@
+{
+  "global_caption": "a scene featuring an old man wearing a beret, a gray shirt, and black pants, an adult man wearing a blue shirt and beige pants holding a basket and holding up a pan with one hand, an adult female wearing a floral dress, black pants, and a beret holding hands with a man and holding a basket, a picnic basket, a pan, bottles of water on the pan, a female child wearing a pink shirt and a white skirt holding a yellow balloon and a brown teddy bear.",
+  "region_captions": [
+    "an old man wearing a beret, a gray shirt, and black pants",
+    "an adult man wearing a blue shirt and beige pants, holding a basket and holding up a pan with one hand",
+    "an adult female wearing a floral dress, black pants, and a beret, holding hands with a man and holding a basket",
+    "a picnic basket",
+    "a pan",
+    "bottles of water on the pan",
+    "a female child wearing a pink shirt and a white skirt, holding a balloon and a bear",
+    "a yellow balloon",
+    "a brown teddy bear"
+  ],
+  "region_bboxes": [
+    [
+      -0.013671875,
+      0.35546875,
+      0.166015625,
+      0.90625
+    ],
+    [
+      0.4257049560546875,
+      0.23828125,
+      0.7030487060546875,
+      0.888671875
+    ],
+    [
+      0.1893768310546875,
+      0.27734375,
+      0.4100799560546875,
+      0.888671875
+    ],
+    [
+      0.318359375,
+      0.509765625,
+      0.53125,
+      0.677734375
+    ],
+    [
+      0.59375,
+      0.365234375,
+      0.857421875,
+      0.404296875
+    ],
+    [
+      0.599609375,
+      0.2734375,
+      0.853515625,
+      0.37109375
+    ],
+    [
+      0.7440643310546875,
+      0.576171875,
+      0.9022674560546875,
+      0.892578125
+    ],
+    [
+      0.8417205810546875,
+      0.423828125,
+      0.9667205810546875,
+      0.611328125
+    ],
+    [
+      0.693359375,
+      0.724609375,
+      0.791015625,
+      0.822265625
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring an adult guy wearing a white shirt and a watch, wearing light-brown pants, holding a map and wearing black shoes; an adult woman with a flower-patterned shirt and blue shorts, carrying luggage and holding coffee; an adult man wearing a green shirt and a watch, wearing beige shorts and black shoes; and an adult woman wearing a light blue dress, taking a photo with a camera and holding a hat.",
+  "region_captions": [
+    "an adult guy wearing a white shirt and a watch, wearing light-brown pants, holding a map, and wearing black shoes",
+    "an adult woman with a flower-patterned shirt and blue shorts, carrying luggage and holding coffee",
+    "an adult man wearing a green shirt and a watch, wearing beige shorts and black shoes",
+    "an adult woman wearing a light blue dress, taking a photo with a camera and holding a hat"
+  ],
+  "region_bboxes": [
+    [
+      0.013671875,
+      0.328125,
+      0.17578125,
+      0.798828125
+    ],
+    [
+      0.25,
+      0.38671875,
+      0.41796875,
+      0.794921875
+    ],
+    [
+      0.5,
+      0.330078125,
+      0.6796875,
+      0.796875
+    ],
+    [
+      0.76171875,
+      0.400390625,
+      0.912109375,
+      0.796875
+    ]
+  ]
+}

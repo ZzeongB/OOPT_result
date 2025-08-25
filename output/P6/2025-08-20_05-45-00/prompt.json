@@ -1,0 +1,77 @@
+{
+  "global_caption": "a scene featuring an old guy wearing a black hat walking, a young adult woman wearing a dress facing front, a young adult man wearing a blue shirt and beige shorts facing front, wearing sandals, holding a basket and a tray, a girl wearing a pink shirt and white pants holding a yellow balloon and a brown teddy bear, a parked black sedan car facing right, a basket, a set with a bottle of water on a tray, and a bright yellow balloon with a smooth surface.",
+  "region_captions": [
+    "an old guy wearing a black hat walking",
+    "a young adult woman wearing a dress facing front",
+    "a young adult man wearing a blue shirt and beige shorts facing front, wearing sandals, holding a basket and a tray",
+    "a girl wearing a pink shirt and white pants is holding a yellow balloon and a brown teddy bear",
+    "a parked black sedan car facing right",
+    "a basket",
+    "a set with a bottle of water, with the bottle on a tray",
+    "a bright yellow balloon with a smooth surface",
+    "a brown teddy bear",
+    "a tray"
+  ],
+  "region_bboxes": [
+    [
+      0.0161285400390625,
+      0.3876953125,
+      0.1548004150390625,
+      0.8154296875
+    ],
+    [
+      0.2563629150390625,
+      0.3740234375,
+      0.4438629150390625,
+      0.8154296875
+    ],
+    [
+      0.4790191650390625,
+      0.2880859375,
+      0.6469879150390625,
+      0.8154296875
+    ],
+    [
+      0.7368316650390625,
+      0.5615234375,
+      0.8598785400390625,
+      0.8154296875
+    ],
+    [
+      0.6313629150390625,
+      0.3837890625,
+      0.9321441650390625,
+      0.5400390625
+    ],
+    [
+      0.3989410400390625,
+      0.5400390625,
+      0.5376129150390625,
+      0.7470703125
+    ],
+    [
+      0.5844879150390625,
+      0.1962890625,
+      0.8774566650390625,
+      0.2958984375
+    ],
+    [
+      0.8462066650390625,
+      0.3662109375,
+      0.9438629150390625,
+      0.4716796875
+    ],
+    [
+      0.6590728759765625,
+      0.6875,
+      0.7567291259765625,
+      0.78515625
+    ],
+    [
+      0.5184478759765625,
+      0.275390625,
+      0.9071197509765625,
+      0.314453125
+    ]
+  ]
+}

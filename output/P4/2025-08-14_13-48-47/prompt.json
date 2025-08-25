@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a woman holding a basket walking with her husband with a happy smile, a man putting his hand on his wife lifting a tray with a lot of water bottles on it, an old man wearing a gray cardigan and black beret taking a lovely look at a girl at the opposite side while walking beside the couple, a girl with a pink sleeveless shirt holding a yellow balloon in her left hand and a teddy bear in her right hand, and some cars parked in the parking lot in the background",
+  "region_captions": [
+    "a woman holding a basket is walking with her husband with a happy smile",
+    "a man putting his hand on his wife is lifting a tray with a lot of water bottles on it",
+    "an old man wearing a gray cardigan and black beret takes a lovely look at the girl at the opposite side while walking beside the couple",
+    "a girl with a pink sleeveless shirt holds a yellow balloon in her left hand and a teddy bear in her right hand",
+    "some cars are parked in the parking lot in the background"
+  ],
+  "region_bboxes": [
+    [
+      0.287109375,
+      0.416015625,
+      0.49609375,
+      0.859375
+    ],
+    [
+      0.515625,
+      0.384765625,
+      0.705078125,
+      0.859375
+    ],
+    [
+      0.03515625,
+      0.505859375,
+      0.21875,
+      0.87890625
+    ],
+    [
+      0.7437499985098839,
+      0.576171875,
+      0.8667968735098839,
+      0.8671875
+    ],
+    [
+      0.0390625,
+      0.052734375,
+      0.9375,
+      0.287109375
+    ]
+  ]
+}

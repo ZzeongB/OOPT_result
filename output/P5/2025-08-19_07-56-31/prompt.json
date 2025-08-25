@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes, a woman wearing a flower-covered white dress who is smiling and is 25 years old, a 30-year-old man wearing a blue shirt and beige shorts and black slippers, holding a brown basket with his right hand and a tray with 20 bottles of water on it with his left hand, and a young girl wearing a pink tank top and a white skirt and pink sneakers, holding a brown teddy bear with her right hand and holding a yellow balloon with her left hand",
+  "region_captions": [
+    "an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes",
+    "a woman wearing a flower-covered white dress, she is smiling and is 25 years old",
+    "a 30-year-old man wearing a blue shirt and beige shorts and black slippers, holding a brown basket with his right hand and a tray with 20 bottles of water on it with his left hand",
+    "a young girl wearing a pink tank top and a white skirt and pink sneakers, holding a brown teddy bear with her right hand and holding a yellow balloon with her left hand"
+  ],
+  "region_bboxes": [
+    [
+      0.00390625,
+      0.404296875,
+      0.2265625,
+      0.953125
+    ],
+    [
+      0.251953125,
+      0.26171875,
+      0.56640625,
+      0.955078125
+    ],
+    [
+      0.529296875,
+      0.259765625,
+      0.81640625,
+      0.955078125
+    ],
+    [
+      0.8046875,
+      0.515625,
+      0.96875,
+      0.953125
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "global_caption": "A scene featuring a grandpa with white hair wearing a black cap, a white shirt, a grey cardigan, and black long pants, with a pair of black shoes; a woman with dark brown hair and slightly tanned skin, wearing a short sleeve long dress with small pink and light-blue flower patterns, holding a wooden basket and holding hands with a male; a dark, slightly tanned male wearing a short-sleeve blue shirt and beige short pants, holding a bunch of bottled water and having short, curly dark brown hair; a little girl wearing a hot-pink t-shirt with no sleeves, a white mid-length skirt, and pink sandals, holding a brown teddy bear in her right hand and a yellow balloon in her left hand; and a road with two black cars and a lot of trees with green leaves.",
+  "region_captions": [
+    "Grandpa with white hair wearing a black cap, a white shirt, a grey cardigan, and black long pants. He is wearing a pair of black shoes.",
+    "A woman with dark brown hair and slightly tanned skin, wearing a short sleeve long dress with small pink and light-blue flower patterns. She is holding a wooden basket and holding hands with a male.",
+    "A dark, slightly tanned male wearing a short-sleeve blue shirt and beige short pants, holding a bunch of bottled water. He has short, curly dark brown hair.",
+    "A little girl wearing a hot-pink t-shirt with no sleeves, a white mid-length skirt, and pink sandals. She is holding a brown teddy bear in her right hand and a yellow balloon in her left hand.",
+    "A road with two black cars and a lot of trees with green leaves."
+  ],
+  "region_bboxes": [
+    [
+      -0.01727294921875,
+      0.4609375,
+      0.15460205078125,
+      0.9453125
+    ],
+    [
+      0.236328125,
+      0.31640625,
+      0.4296875,
+      0.9453125
+    ],
+    [
+      0.46710205078125,
+      0.25390625,
+      0.70928955078125,
+      0.94140625
+    ],
+    [
+      0.771484375,
+      0.611328125,
+      0.9140625,
+      0.947265625
+    ],
+    [
+      -0.0390625,
+      0,
+      0.982421875,
+      0.654296875
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "global_caption": "a scene featuring a man wearing a white short-sleeve shirt and beige pants, wearing sunglasses and holding a paper map in his right hand, with his foot in the frame of the image; a woman in a sky-blue dress, wearing brown sandals, with her left hand on her side, taking a picture of the sky with a camera, and holding a brown hat; a female wearing a top with a flower pattern and short jeans, holding a gray suitcase in her right hand and a coffee cup in her left hand; and a man wearing a light green T-shirt, beige shorts, and black shoes, with his hands in his pockets; all set against a background featuring yellow buildings and white street lamps.",
+  "region_captions": [
+    "a man wearing a white short-sleeve shirt and beige pants, wearing sunglasses and holding a paper map in his right hand, with his foot in the frame of the image",
+    "a woman in a sky-blue dress, wearing brown sandals, with her left hand on her side, taking a picture with a camera, and holding a brown hat",
+    "a female wearing a top with a flower pattern and short jeans, holding a gray suitcase in her right hand and a coffee cup in her left hand",
+    "a man wearing a light green T-shirt, beige shorts, and black shoes, with his hands in his pockets",
+    "a gray suitcase",
+    "a coffee cup",
+    "a camera belonging to the woman",
+    "a background with yellow buildings and white street lamps",
+    "a brown hat"
+  ],
+  "region_bboxes": [
+    [
+      -0.015411376953125,
+      0.490234375,
+      0.154510498046875,
+      1.009765625
+    ],
+    [
+      0.7734375,
+      0.51171875,
+      0.947265625,
+      1.015625
+    ],
+    [
+      0.279510498046875,
+      0.521484375,
+      0.429901123046875,
+      1.017578125
+    ],
+    [
+      0.509979248046875,
+      0.462890625,
+      0.677947998046875,
+      1.005859375
+    ],
+    [
+      0.240447998046875,
+      0.82421875,
+      0.338104248046875,
+      1.021484375
+    ],
+    [
+      0.392791748046875,
+      0.65234375,
+      0.437713623046875,
+      0.72265625
+    ],
+    [
+      0.814666748046875,
+      0.453125,
+      0.912322998046875,
+      0.55078125
+    ],
+    [
+      0.048828125,
+      0.056640625,
+      0.95703125,
+      0.50390625
+    ],
+    [
+      0.849822998046875,
+      0.705078125,
+      0.947479248046875,
+      0.802734375
+    ]
+  ]
+}

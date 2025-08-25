@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a young man wearing a white shirt, black sunglasses, beige pants, and black shoes looking at a woman holding a camera, a fatty woman with long hair holding a cup of coffee in her left hand and luggage in her right hand, a young man wearing a green T-shirt, beige short pants, and black sneakers with a gray watch on his left wrist holding something in both hands and watching the girl who holds the camera, and a woman with long hair wearing a bright blue-colored one-piece holding a camera in her left hand and taking a photo while holding a hat in her right hand.",
+  "region_captions": [
+    "a young man wearing a white shirt, black sunglasses, beige pants, and black shoes is looking at a woman who is holding a camera, with his left hand in his pocket, with a watch on his left wrist. He is holding a map in his right hand.",
+    "a fatty woman with long hair is holding a cup of coffee in her left hand and luggage in her right hand. She is wearing a flower-patterned dress, short jeans, and sandals. She is looking at the woman who holds the camera.",
+    "a young man wearing a green T-shirt, beige short pants, and black sneakers has a gray watch on his left wrist and is holding something in both hands, with his hands in a pocket. He is interestingly watching the girl who holds the camera.",
+    "a woman with long hair is wearing a bright blue-colored one-piece and sandals, holding a camera in her left hand and taking a photo. She is also holding a hat in her right hand."
+  ],
+  "region_bboxes": [
+    [
+      0.064453125,
+      0.3300781212747097,
+      0.25,
+      0.8515624962747097
+    ],
+    [
+      0.279296875,
+      0.3710937462747097,
+      0.486328125,
+      0.8515624962747097
+    ],
+    [
+      0.5059082061052322,
+      0.3648437485098839,
+      0.7129394561052322,
+      0.8511718735098839
+    ],
+    [
+      0.7500488311052322,
+      0.3687499985098839,
+      0.9355957061052322,
+      0.8609374985098839
+    ]
+  ]
+}

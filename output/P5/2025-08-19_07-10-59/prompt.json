@@ -1,0 +1,14 @@
+{
+  "global_caption": "a scene featuring a male person wearing a white shirt, beige pants, black shoes, and a silver clock",
+  "region_captions": [
+    "a male person wearing a white shirt, beige pants, black shoes, and a silver clock"
+  ],
+  "region_bboxes": [
+    [
+      0.021484375,
+      0.35546875,
+      0.263671875,
+      0.873046875
+    ]
+  ]
+}

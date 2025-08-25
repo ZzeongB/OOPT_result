@@ -1,0 +1,70 @@
+{
+  "global_caption": "a scene featuring a man wearing a white shirt, brown pants, black shoes, and sunglasses, with a silver watch on his left wrist, and his hands in his pockets, holding a map; a man wearing a green t-shirt, brown shorts, and black shoes, with a silver watch on his left wrist and his hands in his pockets; a woman with long brown hair wearing a patterned flower shirt, short blue pants, and slippers, holding a cup of coffee in her left hand, and dragging a silver trunk in her right hand; a short, average-height woman with black hair wearing a light blue one-piece dress and sandals, looking up while holding a black camera in her right hand positioned up to her face, and dragging a beige straw hat in her left hand; a wide-brimmed hat with a black ribbon; and a shiny silver suitcase with vertical grooves and a retractable handle.",
+  "region_captions": [
+    "Corrected region descriptions:",
+    "1. a man wearing a white shirt, brown pants, black shoes, and sunglasses, with a silver watch on his left wrist, and his hands in his pockets, holding a map",
+    "2. a man wearing a green t-shirt, brown shorts, and black shoes, with a silver watch on his left wrist, and his hands in his pockets",
+    "3. a woman with long brown hair wearing a patterned flower shirt, short blue pants, and slippers, holding a cup of coffee in her left hand, and dragging a silver trunk in her right hand",
+    "4. a short, average-height woman with black hair wearing a light blue one-piece dress and sandals, looking up while holding a black camera in her right hand positioned up to her face, and dragging a beige straw hat in her left hand",
+    "5. a wide-brimmed hat with a black ribbon",
+    "6. a shiny silver suitcase with vertical grooves and a retractable handle",
+    "a scene featuring a man wearing a white shirt, brown pants, black shoes, and sunglasses, with a silver watch on his left wrist, and his hands in his pockets, holding a map; a man wearing a green t-shirt, brown shorts, and black shoes, with a silver watch on his left wrist and his hands in his pockets; a woman with long brown hair wearing a patterned flower shirt, short blue pants, and slippers, holding a cup of coffee in her left hand, and dragging a silver trunk in her right hand; a short, average-height woman with black hair wearing a light blue one-piece dress and sandals, looking up while holding a black camera in her right hand positioned up to her face, and dragging a beige straw hat in her left hand; a wide-brimmed hat with a black ribbon; and a shiny silver suitcase with vertical grooves and a retractable handle.",
+    ""
+  ],
+  "region_bboxes": [
+    [
+      0.041015625,
+      0.421875,
+      0.16015625,
+      0.927734375
+    ],
+    [
+      0.47883156687021255,
+      0.42609719559550285,
+      0.6311753168702126,
+      0.9143784455955029
+    ],
+    [
+      0.275390625,
+      0.4335937537252903,
+      0.388671875,
+      0.9218750037252903
+    ],
+    [
+      0.6917221918702126,
+      0.42805032059550285,
+      0.8167221918702126,
+      0.9221909455955029
+    ],
+    [
+      0.7796128168702126,
+      0.6445312537252903,
+      0.8401596918702126,
+      0.7519531287252903
+    ],
+    [
+      0.34375,
+      0.646484375,
+      0.443359375,
+      0.912109375
+    ],
+    [
+      -0.007496558129787445,
+      0.6800034455955029,
+      0.09211281687021255,
+      0.7796128205955029
+    ],
+    [
+      0.21711281687021255,
+      0.6448471955955029,
+      0.31672219187021255,
+      0.7444565705955029
+    ],
+    [
+      0.33234719187021255,
+      0.7659409455955029,
+      0.43195656687021255,
+      0.8655503205955029
+    ]
+  ]
+}

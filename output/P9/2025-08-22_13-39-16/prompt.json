@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a grandfather with white hair, wearing a black beret hat, a grey cardigan, navy pants, and black shoes, looking to the right side; a mother with a smiling face, brown skin, black hair, wearing a white dress with small pink flowers and a green leaves pattern, holding the father's hand with her right hand, looking at the front side; a father with a smiling face, dark skin, black curly short hair, wearing a blue t-shirt, ivory short pants, and black sandals, holding the mother's hand with his left hand, also holding a big basket in his left hand, and carrying a lot of bottles of water on board, looking at the front side; and a girl with dark skin, black short hair, wearing pink sleeves and a white lacy skirt, pink shoes, holding a teddy bear in her left hand and a yellow balloon in her right hand, looking at the front side.",
+  "region_captions": [
+    "a grandfather with white hair, wearing a black beret hat, a grey cardigan, navy pants, and black shoes, looking to the right side",
+    "a mother with a smiling face, brown skin, black hair, wearing a white dress with small pink flowers and a green leaves pattern, holding the father's hand with her right hand, looking at the front side",
+    "a father with a smiling face, dark skin, black curly short hair, wearing a blue t-shirt, ivory short pants, and black sandals, holding the mother's hand with his left hand, also holding a big basket in his left hand, and carrying a lot of bottles of water on board, looking at the front side",
+    "a girl with dark skin, black short hair, wearing pink sleeves and a white lacy skirt, pink shoes, holding a teddy bear in her left hand and a yellow balloon in her right hand, looking at the front side"
+  ],
+  "region_bboxes": [
+    [
+      -0.01406250149011612,
+      0.42890624701976776,
+      0.22226562350988388,
+      0.9523437470197678
+    ],
+    [
+      0.23828125,
+      0.29023437201976776,
+      0.447265625,
+      0.9523437470197678
+    ],
+    [
+      0.486328125,
+      0.25117187201976776,
+      0.74609375,
+      0.9582031220197678
+    ],
+    [
+      0.7515624985098839,
+      0.6476562470197678,
+      0.9449218735098839,
+      0.9582031220197678
+    ]
+  ]
+}

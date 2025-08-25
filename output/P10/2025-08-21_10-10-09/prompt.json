@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a grandfather wearing a black beret, a white shirt, a gray cardigan, black pants, and black shoes, watching the right side; a mother wearing a white, flower-patterned one-piece dress and sandals, looking ahead while holding a brown basket; a father wearing a blue short-sleeved shirt and beige shorts, holding a black plate with many water bottles, and wearing sandals, seeing the front while holding a basket; a little girl wearing a sleeveless pink top and pink shoes while holding a yellow balloon and a brown teddy bear, watching the front; and a brown basket, while the mother and father are holding the same basket.",
+  "region_captions": [
+    "a grandfather wearing a black beret, a white shirt, a gray cardigan, black pants, and black shoes, watching the right side",
+    "a mother wearing a white, flower-patterned one-piece dress and sandals, looking ahead while holding a brown basket",
+    "a father wearing a blue short-sleeved shirt and beige shorts, holding a black plate with many water bottles, and wearing sandals, seeing the front while holding a basket",
+    "a little girl wearing a sleeveless pink top and pink shoes while holding a yellow balloon and a brown teddy bear, watching the front",
+    "a brown basket, while the mother and father are holding the same basket"
+  ],
+  "region_bboxes": [
+    [
+      -0.005859375,
+      0.349609375,
+      0.19140625,
+      0.845703125
+    ],
+    [
+      0.275390625,
+      0.294921875,
+      0.44921875,
+      0.830078125
+    ],
+    [
+      0.512542724609375,
+      0.23828125,
+      0.733245849609375,
+      0.83984375
+    ],
+    [
+      0.780120849609375,
+      0.462890625,
+      0.930511474609375,
+      0.8203125
+    ],
+    [
+      0.420745849609375,
+      0.48046875,
+      0.518402099609375,
+      0.578125
+    ]
+  ]
+}

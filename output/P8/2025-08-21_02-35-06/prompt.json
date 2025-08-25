@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a woman taking a picture of the sky with her camera, wearing a sky blue sleeveless one-piece dress and white slippers, holding a vacation hat and smiling; a cool man with a muscular build wearing sunglasses, a white shirt, beige pants, black men's formal shoes, and a wristwatch, with one hand in the pocket of his pants, looking at the woman while holding a paper map; a man wearing a green t-shirt, beige short pants, and black men's formal shoes with his hands in the pockets of his pants and wearing a wristwatch, looking at the woman; a woman wearing a pink and sky blue flower-patterned short-sleeves blouse, short jeans, and black slippers, holding a red coffee cup and luggage, looking at the woman; a street of a European city with yellow buildings, a palm tree in the corner, and some parasols; and a paper map.",
+  "region_captions": [
+    "a woman taking a picture of the sky with her camera, wearing a sky blue sleeveless one-piece dress and white slippers, holding a vacation hat, and smiling",
+    "a cool man with a muscular build wearing sunglasses, a white shirt, beige pants, black men's formal shoes, and a wristwatch, with one hand in the pocket of his pants, looking at the woman while holding a paper map",
+    "a man wearing a green t-shirt, beige short pants, and black men's formal shoes, with his hands in the pockets of his pants and wearing a wristwatch, looking at the woman",
+    "a woman wearing a pink and sky blue flower-patterned short-sleeves blouse, short jeans, and black slippers, holding a red coffee cup and luggage, looking at the woman",
+    "a street of a European city with yellow buildings, a palm tree in the corner, and some parasols",
+    "a paper map"
+  ],
+  "region_bboxes": [
+    [
+      0.7154397442936897,
+      0.375,
+      0.9673928692936897,
+      0.818359375
+    ],
+    [
+      -0.008056640625,
+      0.236328125,
+      0.197021484375,
+      0.8125
+    ],
+    [
+      0.45148781687021255,
+      0.37531594559550285,
+      0.6897690668702126,
+      0.8128159455955029
+    ],
+    [
+      0.22492531687021255,
+      0.36555032059550285,
+      0.43586281687021255,
+      0.8167221955955029
+    ],
+    [
+      -0.013355933129787445,
+      -0.03288717940449715,
+      1.0042221918702126,
+      0.9885971955955029
+    ],
+    [
+      -0.013355933129787445,
+      0.49445657059550285,
+      0.08625344187021255,
+      0.5940659455955029
+    ]
+  ]
+}

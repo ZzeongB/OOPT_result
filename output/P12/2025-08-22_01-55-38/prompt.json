@@ -1,0 +1,63 @@
+{
+  "global_caption": "a scene featuring an old person wearing a gray cardigan with 2 buttons on the shirt, black pants, and a beret, with short white hair, looking at a 35-year-old woman with medium-length wavy white hair wearing a beret, who is chubby and dressed in a short sleeve dress with a pink and blue flower pattern, and a 35-year-old male wearing a short-sleeved blue polo shirt, knee-length beige shorts, and black slippers. Nearby, there is a 7-year-old girl with short hair wearing a neon pink sleeveless top, a white puffy skirt, and pink sneakers, holding a yellow balloon with a white string in her left hand and a teddy bear in her right hand. Additionally, a tray full of disposable bottles of water is held in the male's left hand, and a basket with a few items in it is held by both the woman and the man.",
+  "region_captions": [
+    "an old person wearing a gray cardigan with 2 buttons on the shirt, black pants, and a beret, with short white hair, around 150 cm tall, looking at the woman and the man, and slightly overweight",
+    "a 35-year-old woman with medium-length wavy white hair wearing a beret, who is chubby and around 165 cm tall, dressed in a short sleeve dress with a pink and blue flower pattern",
+    "a 35-year-old male wearing a short-sleeved blue polo shirt, knee-length beige shorts, and black slippers, with curly short hair",
+    "a 7-year-old girl with short hair wearing a neon pink sleeveless top with a small white patch, a white puffy skirt, and pink sneakers",
+    "a yellow balloon with a white string, held by a girl in her left hand",
+    "a teddy bear that the girl is holding in her right hand",
+    "a tray full of disposable bottles of water held in the male's left hand",
+    "a basket with a few items in it, held by the woman and the man"
+  ],
+  "region_bboxes": [
+    [
+      0.009765625,
+      0.56640625,
+      0.162109375,
+      0.962890625
+    ],
+    [
+      0.236328125,
+      0.4375,
+      0.4765625,
+      1.033203125
+    ],
+    [
+      0.49609375,
+      0.376953125,
+      0.681640625,
+      1.037109375
+    ],
+    [
+      0.732421875,
+      0.728515625,
+      0.927734375,
+      0.966796875
+    ],
+    [
+      0.888671875,
+      0.50390625,
+      0.986328125,
+      0.6015625
+    ],
+    [
+      0.68359375,
+      0.8359375,
+      0.78125,
+      0.93359375
+    ],
+    [
+      0.6484375,
+      0.544921875,
+      0.74609375,
+      0.642578125
+    ],
+    [
+      0.412109375,
+      0.66015625,
+      0.509765625,
+      0.7578125
+    ]
+  ]
+}
