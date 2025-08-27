@@ -1,0 +1,27 @@
+pid,system_name,label,start_event,end_event,start_time,end_time,delta_sec
+P5,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 07:08:40,2025-08-25 07:10:25,105.0
+P5,OOPT,Init-OOPT,class_detail_opened,api.generate_scene_graph_to_text.started,2025-08-25 07:11:43,2025-08-25 07:12:15,32.0
+P5,OOPT,Init-OOPT,class_detail_opened,api.generate_scene_graph_to_text.started,2025-08-25 07:16:01,2025-08-25 07:17:50,109.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:18:33,2025-08-25 07:20:16,103.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:21:30,2025-08-25 07:22:01,31.0
+P5,OOPT,Init-OOPT,class_detail_opened,api.generate_scene_graph_to_text.started,2025-08-25 07:23:07,2025-08-25 07:24:35,88.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:25:08,2025-08-25 07:26:31,83.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 07:26:38,2025-08-25 07:27:04,26.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 07:28:00,2025-08-25 07:28:17,17.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:28:36,2025-08-25 07:28:51,15.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 07:28:54,2025-08-25 07:29:28,34.0
+P5,OOPT,Init-OOPT,class_detail_opened,instance.create_from_class.started,2025-08-25 07:30:44,2025-08-25 07:31:50,66.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:32:09,2025-08-25 07:32:25,16.0
+P5,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 07:33:18,2025-08-25 07:33:29,11.0
+P5,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 07:34:30,2025-08-25 07:34:37,7.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:35:33,2025-08-25 07:35:42,9.0
+P5,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 07:35:52,2025-08-25 07:35:58,6.0
+P5,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 07:36:30,2025-08-25 07:36:37,7.0
+P5,OOPT,Edit-OOPT,instance.edit.started,api.generate_scene_graph_to_text.started,2025-08-25 07:38:10,2025-08-25 07:38:21,11.0
+P5,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 07:40:38,2025-08-25 07:42:47,129.0
+P5,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 07:44:26,2025-08-25 07:45:41,75.0
+P5,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 07:47:23,2025-08-25 07:50:39,196.0
+P5,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 07:51:01,2025-08-25 07:51:47,46.0
+P5,Baseline,Edit-Baseline,baselineboard.node.add.instance,baselineboard.node.edit,2025-08-25 07:51:47,2025-08-25 07:52:04,17.0
+P5,Baseline,Edit-Baseline,layout_board.new_box_initiated,baselineboard.node.edit,2025-08-25 07:52:13,2025-08-25 07:52:35,22.0
+P5,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 07:52:35,2025-08-25 07:54:38,123.0

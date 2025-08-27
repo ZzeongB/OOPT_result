@@ -1,0 +1,26 @@
+pid,system_name,label,start_event,end_event,start_time,end_time,delta_sec
+P4,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 13:40:14,2025-08-25 13:41:37,83.0
+P4,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 13:41:42,2025-08-25 13:42:29,47.0
+P4,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 13:44:29,2025-08-25 13:45:25,56.0
+P4,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 13:45:30,2025-08-25 13:46:31,61.0
+P4,Baseline,Init-Baseline,layout_board.new_box_initiated,baselineboard.node.add.instance,2025-08-25 13:46:33,2025-08-25 13:46:48,15.0
+P4,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 14:03:52,2025-08-25 14:07:35,223.0
+P4,OOPT,Init-OOPT,layout_board.new_box_positioned,api.generate_text_to_graph.started,2025-08-25 14:07:48,2025-08-25 14:10:18,150.0
+P4,OOPT,Init-OOPT,class_detail_opened,api.generate_scene_graph_to_text.started,2025-08-25 14:11:31,2025-08-25 14:15:06,215.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:16:23,2025-08-25 14:16:48,25.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:17:28,2025-08-25 14:17:33,5.0
+P4,OOPT,Init-OOPT,class_detail_opened,api.generate_scene_graph_to_text.started,2025-08-25 14:18:03,2025-08-25 14:20:27,144.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:21:15,2025-08-25 14:22:18,63.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:22:54,2025-08-25 14:23:42,48.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:24:04,2025-08-25 14:24:38,34.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:25:49,2025-08-25 14:26:22,33.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:26:50,2025-08-25 14:27:13,23.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:32:53,2025-08-25 14:33:50,57.0
+P4,OOPT,Edit-OOPT,instance.edit.started,api.generate_text_to_graph.started,2025-08-25 14:34:53,2025-08-25 14:35:11,18.0
+P4,Baseline,Edit-Baseline,baselineboard.node.add.instance,baselineboard.node.edit,2025-08-25 13:46:48,2025-08-25 13:47:12,24.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:47:12,2025-08-25 13:54:42,450.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:54:42,2025-08-25 13:55:52,70.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:55:52,2025-08-25 13:56:14,22.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:56:14,2025-08-25 13:56:32,18.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:56:32,2025-08-25 13:56:44,12.0
+P4,Baseline,Edit-Baseline,baselineboard.node.edit,baselineboard.node.edit,2025-08-25 13:56:44,2025-08-25 13:59:27,163.0
