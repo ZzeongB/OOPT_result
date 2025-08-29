@@ -94,10 +94,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 39,
-          "y": 179,
-          "width": 50,
-          "height": 50
+          "x": 30,
+          "y": 166,
+          "width": 74,
+          "height": 308
         },
         "isFromClass": false
       },
@@ -205,10 +205,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 112,
-          "y": 165,
-          "width": 50,
-          "height": 50
+          "x": 152,
+          "y": 178,
+          "width": 76,
+          "height": 287
         },
         "isFromClass": false
       },
@@ -305,10 +305,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 221,
-          "y": 194,
-          "width": 50,
-          "height": 50
+          "x": 262,
+          "y": 185,
+          "width": 67,
+          "height": 273
         },
         "isFromClass": false
       },
@@ -321,10 +321,10 @@
           "relationships": []
         },
         "boundingBox": {
-          "x": 372,
-          "y": 185,
-          "width": 50,
-          "height": 50
+          "x": 388,
+          "y": 199,
+          "width": 21,
+          "height": 238
         },
         "isFromClass": false
       }

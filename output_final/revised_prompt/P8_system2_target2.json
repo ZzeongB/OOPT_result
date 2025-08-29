@@ -76,10 +76,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 358,
-          "y": 189,
-          "width": 50,
-          "height": 50
+          "x": 364,
+          "y": 192,
+          "width": 129,
+          "height": 227
         },
         "isFromClass": false
       },
@@ -172,10 +172,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 25,
-          "y": 176,
-          "width": 50,
-          "height": 50
+          "x": 0,
+          "y": 192,
+          "width": 106,
+          "height": 223
         },
         "isFromClass": false
       },
@@ -277,10 +277,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 252,
-          "y": 150,
-          "width": 50,
-          "height": 50
+          "x": 229,
+          "y": 192,
+          "width": 122,
+          "height": 224
         },
         "isFromClass": false
       },
@@ -350,10 +350,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 142,
-          "y": 190,
-          "width": 50,
-          "height": 50
+          "x": 113,
+          "y": 187,
+          "width": 108,
+          "height": 231
         },
         "isFromClass": false
       },
@@ -408,10 +408,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 37,
-          "y": 26,
-          "width": 50,
-          "height": 50
+          "x": 11,
+          "y": 0,
+          "width": 478,
+          "height": 487
         },
         "isFromClass": false
       }

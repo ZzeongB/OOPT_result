@@ -92,10 +92,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 62,
-          "y": 241,
-          "width": 50,
-          "height": 50
+          "x": 10,
+          "y": 235,
+          "width": 99,
+          "height": 270
         },
         "isFromClass": false
       },
@@ -117,10 +117,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 5,
-          "y": 379,
-          "width": 50,
-          "height": 50
+          "x": 0,
+          "y": 347,
+          "width": 57,
+          "height": 75
         },
         "isFromClass": false
       },
@@ -189,10 +189,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 188,
-          "y": 221,
-          "width": 50,
-          "height": 50
+          "x": 139,
+          "y": 286,
+          "width": 93,
+          "height": 210
         },
         "isFromClass": false
       },
@@ -273,10 +273,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 317,
-          "y": 274,
-          "width": 50,
-          "height": 50
+          "x": 255,
+          "y": 258,
+          "width": 102,
+          "height": 239
         },
         "isFromClass": false
       },
@@ -298,10 +298,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 163,
-          "y": 362,
-          "width": 50,
-          "height": 50
+          "x": 131,
+          "y": 396,
+          "width": 60,
+          "height": 107
         },
         "isFromClass": false
       },
@@ -386,10 +386,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 416,
-          "y": 221,
-          "width": 50,
-          "height": 50
+          "x": 381,
+          "y": 275,
+          "width": 95,
+          "height": 223
         },
         "isFromClass": false
       },
@@ -412,10 +412,10 @@
           "root": "object1"
         },
         "boundingBox": {
-          "x": 461,
-          "y": 327,
-          "width": 50,
-          "height": 50
+          "x": 422,
+          "y": 363,
+          "width": 57,
+          "height": 55
         },
         "isFromClass": false
       }
