@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1756480894768,
+    "title": "Scene 2025. 8. 30. 오전 12:21:34",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-4820c47c-403b-47e6-b63e-37191c0a3d7d",
+        "label": "man",
+        "textDescription": "an old man wearing a black beret and a gray cardigan over a white shirt, also wearing navy pants and black shoes",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "old"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "beret",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "cardigan",
+              "attributes": [
+                "gray"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "pants",
+              "attributes": [
+                "navy"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 13,
+          "y": 230,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-f4a97495-880c-451d-82b8-67813d0f5617",
+        "label": "woman",
+        "textDescription": "a woman wearing a flower-covered white dress, she is smiling and is 25 years old",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "flower-covered",
+                "white",
+                "25 years old"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 106,
+          "y": 195,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-f644d06e-ee4a-4e78-a321-8bdd6f53d92f",
+        "label": "man",
+        "textDescription": "a 30-year-old man wearing a blue shirt and beige shorts and black slippers, holding a brown basket with his right hand and a tray with 20 bottles of water on it with his left hand",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "30-year-old"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "slippers",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "basket",
+              "attributes": [
+                "brown"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "right"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "tray",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "bottle",
+              "attributes": [
+                "20"
+              ]
+            },
+            {
+              "id": "object9",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "holding"
+            },
+            {
+              "source": "object7",
+              "target": "object8",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object9",
+              "relation": "with"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 219,
+          "y": 195,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-b5baa63f-b082-4705-89e8-9c1513993f63",
+        "label": "girl",
+        "textDescription": "a young girl wearing a pink tank top and a white skirt and pink sneakers, holding a brown teddy bear with her right hand and holding a yellow balloon with her left hand",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "girl",
+              "attributes": [
+                "young"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "tank top",
+              "attributes": [
+                "pink"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "skirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sneakers",
+              "attributes": [
+                "pink"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "teddy bear",
+              "attributes": [
+                "brown"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "right"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "balloon",
+              "attributes": [
+                "yellow"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "with"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 327,
+          "y": 214,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T15:21:34.769Z",
+    "nodeCount": 4,
+    "edgeCount": 0
+  }
+]

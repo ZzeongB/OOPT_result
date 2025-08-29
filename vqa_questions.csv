@@ -1,0 +1,44 @@
+﻿target_image_id,category,question,answer
+target1,object,Is there an elderly man?,yes
+target1,attribute,Is the elderly man wearing a black beret?,yes
+target1,attribute,Is the elderly man wearing a light gray cardigan over a white shirt?,yes
+target1,attribute,Is the elderly man wearing dark pants?,yes
+target1,relation,Does the elderly man appear slightly shorter than the others?,yes
+target1,object,Is there a woman in a floral dress?,yes
+target1,attribute,Does the woman have long black hair?,yes
+target1,attribute,Is the woman wearing a white dress with a pink-and-blue floral pattern?,yes
+target1,relation,Is the woman carrying a wicker basket?,yes
+target1,object,Is there a man carrying bottled water?,yes
+target1,attribute,Is the man wearing a bright blue polo shirt?,yes
+target1,attribute,Is the man wearing beige shorts?,yes
+target1,attribute,Is the man wearing black sandals?,yes
+target1,relation,Is the man holding a large tray filled with bottled water?,yes
+target1,object,Is there a little girl?,yes
+target1,attribute,Is the girl wearing a pink sleeveless top?,yes
+target1,attribute,Is the girl wearing a white skirt?,yes
+target1,attribute,Is the girl wearing pink shoes?,yes
+target1,relation,Is the girl holding a yellow balloon in her right hand?,yes
+target1,relation,Is the balloon tied with a string and floating above her head?,yes
+target1,relation,Is the girl carrying a brown teddy bear by its arm?,yes
+target2,object,Is there a man with a map?,yes
+target2,attribute,Is the man with the map wearing a white button-up shirt?,yes
+target2,attribute,Is the man with the map wearing beige trousers?,yes
+target2,attribute,Is the man with the map wearing black shoes?,yes
+target2,attribute,Is he wearing sunglasses?,yes
+target2,relation,Is he looking to the side?,yes
+target2,object,Is there a woman pulling a suitcase?,yes
+target2,attribute,Is the woman with the suitcase wearing a floral-patterned T-shirt?,yes
+target2,attribute,Is the woman with the suitcase wearing denim shorts?,yes
+target2,attribute,Is the woman with the suitcase wearing sandals?,yes
+target2,relation,Is the woman carrying a coffee cup?,yes
+target2,relation,Is the woman glancing toward the person next to her?,yes
+target2,object,Is there a man in a green shirt?,yes
+target2,attribute,Is the man in the green shirt wearing a bright green T-shirt?,yes
+target2,attribute,Is the man in the green shirt wearing beige shorts?,yes
+target2,attribute,Is the man in the green shirt wearing black sandals?,yes
+target2,relation,Is the man in the green shirt standing with his hands in his pockets?,yes
+target2,object,Is there a woman with a camera?,yes
+target2,attribute,Is the woman with the camera wearing a sky-blue summer dress?,yes
+target2,attribute,Is the woman with the camera wearing brown sandals?,yes
+target2,relation,Is the woman with the camera holding a straw hat in one hand?,yes
+target2,relation,Is the woman with the camera raising a small camera to take a photo?,yes

@@ -1,0 +1,445 @@
+[
+  {
+    "id": 1756483029238,
+    "title": "Scene 2025. 8. 30. 오전 12:57:09",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-c159027c-835b-4d93-8926-b219506a2e1d",
+        "label": "woman",
+        "textDescription": "A woman taking a picture, with a camera, wearing a sky blue sleeveless one piece and white slippers, holding a new object.",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "DELETE",
+                "DELETE",
+                "DELETE",
+                "DELETE"
+              ]
+            },
+            {
+              "id": "09a05178-41ac-46fb-8b33-bdc371d1c391",
+              "name": "picture",
+              "attributes": []
+            },
+            {
+              "id": "085a5806-4d7f-4333-ab1b-b1e1adfd52b8",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "fc491b41-a953-43ed-a134-34e42f4019e7",
+              "name": "sky blue sleeveless one piece",
+              "attributes": []
+            },
+            {
+              "id": "d2a307ad-510d-4e58-90f7-9b2a517a021d",
+              "name": "new object",
+              "attributes": []
+            },
+            {
+              "id": "4de1a8bc-258e-498c-bff7-d228c2a85275",
+              "name": "white slippers",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "09a05178-41ac-46fb-8b33-bdc371d1c391",
+              "relation": "taking"
+            },
+            {
+              "source": "object1",
+              "target": "085a5806-4d7f-4333-ab1b-b1e1adfd52b8",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "fc491b41-a953-43ed-a134-34e42f4019e7",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "d2a307ad-510d-4e58-90f7-9b2a517a021d",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "4de1a8bc-258e-498c-bff7-d228c2a85275",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 358,
+          "y": 189,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-fe901fb9-8c63-43c3-83ec-ccf9c925378f",
+        "label": "man",
+        "textDescription": "a man wearing sunglasses and a white shirt, beige pants, black shoes, and a wristwatch is holding a paper map",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "white",
+                "beige",
+                "black"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "sunglasses",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "pants",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "wristwatch",
+              "attributes": []
+            },
+            {
+              "id": "object7",
+              "name": "map",
+              "attributes": [
+                "paper"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 25,
+          "y": 176,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-c00e447c-8272-461a-abf8-c92dbe53f446",
+        "label": "man",
+        "textDescription": "a man wearing sunglasses, a green t-shirt, beige short pants, and black shoes has his hands in the pockets of his pants and is wearing a wristwatch",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "green",
+                "beige",
+                "black"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "sunglasses",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "t-shirt",
+              "attributes": [
+                "green"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "pants",
+              "attributes": [
+                "beige",
+                "short"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hands",
+              "attributes": []
+            },
+            {
+              "id": "object7",
+              "name": "pockets",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "wristwatch",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "has in"
+            },
+            {
+              "source": "object6",
+              "target": "object7",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 252,
+          "y": 150,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-74956c1b-0cac-4e05-b4e0-1d03f1e93153",
+        "label": "woman",
+        "textDescription": "A woman is wearing a blouse with pink and sky blue flower patterns on a white background, jeans, and black slippers, holding red coffee and luggage.",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "blouse",
+              "attributes": [
+                "DELETE",
+                "DELETE",
+                "DELETE",
+                "pink and sky blue flower patterns with white background"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "short pants",
+              "attributes": [
+                "jeans"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "slippers",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "red coffee and luggage",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 142,
+          "y": 190,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-24f65c1d-5da4-48a5-b86c-895f2768a97c",
+        "label": "street",
+        "textDescription": "a street of a European city with yellow buildings, a palm tree in the corner, and some parasols",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "street",
+              "attributes": [
+                "European"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "building",
+              "attributes": [
+                "yellow"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "palm tree",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "parasol",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "of"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "with"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 37,
+          "y": 26,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": [
+        {
+          "type": "spatial",
+          "from": "instance-fe901fb9-8c63-43c3-83ec-ccf9c925378f",
+          "to": "instance-c159027c-835b-4d93-8926-b219506a2e1d",
+          "relationship": "looking at"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-74956c1b-0cac-4e05-b4e0-1d03f1e93153",
+          "to": "instance-c159027c-835b-4d93-8926-b219506a2e1d",
+          "relationship": "looking at"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-c00e447c-8272-461a-abf8-c92dbe53f446",
+          "to": "instance-c159027c-835b-4d93-8926-b219506a2e1d",
+          "relationship": "looking at"
+        }
+      ]
+    },
+    "exportedAt": "2025-08-29T15:57:09.238Z",
+    "nodeCount": 5,
+    "edgeCount": 3
+  }
+]

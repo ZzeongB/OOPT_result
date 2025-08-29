@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1756481969925,
+    "title": "Scene 2025. 8. 30. 오전 12:39:29",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-91231a3f-3977-46f8-8521-352cc6d1b955",
+        "label": "man",
+        "textDescription": "a man standing holding a white paper bag, wearing black sunglasses, a watch, a white shirt, beiji pants, and black shoes, watching the right side",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "white",
+                "black"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "paper",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "sunglasses",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "watch",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "pants",
+              "attributes": [
+                "beiji"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "side",
+              "attributes": [
+                "right"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "watching"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 34,
+          "y": 200,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-82747d50-eef2-4cbc-8707-c53b33b0a3be",
+        "label": "woman",
+        "textDescription": "a woman standing, holding a red coffee in her left hand, drawing a grey carrier, wearing a flower-patterned white short-sleeved shirt, and blue shorts",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "red",
+                "flower-patterned",
+                "white",
+                "short-sleeved",
+                "blue"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "coffee",
+              "attributes": [
+                "red"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "carrier",
+              "attributes": [
+                "grey"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "shirt",
+              "attributes": [
+                "flower-patterned",
+                "white",
+                "short-sleeved"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "shorts",
+              "attributes": [
+                "blue"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "drawing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 150,
+          "y": 166,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-f773124e-ff3c-479c-abcc-22d2a6cfe5d6",
+        "label": "man",
+        "textDescription": "a man wearing a green short-sleeved shirt, beiji shorts, a watch around his left hand, and black shoes, watching the right side",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "green",
+                "short-sleeved"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "beiji"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "watch",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "side",
+              "attributes": [
+                "right"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "around"
+            },
+            {
+              "source": "object4",
+              "target": "object5",
+              "relation": "on"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "watching"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 277,
+          "y": 212,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-efaca84d-f11c-4cf2-b8c0-86f489ed4a8c",
+        "label": "woman",
+        "textDescription": "a woman wearing a sky blue one-piece dress, taking a picture with her smartphone in her right hand, holding a beiji hat in her left hand, and wearing sandals",
+        "sceneGraph": {
+          "objects": [],
+          "relationships": []
+        },
+        "boundingBox": {
+          "x": 413,
+          "y": 194,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T15:39:29.925Z",
+    "nodeCount": 4,
+    "edgeCount": 0
+  }
+]

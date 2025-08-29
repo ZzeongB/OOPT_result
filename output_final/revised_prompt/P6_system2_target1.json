@@ -1,0 +1,510 @@
+[
+  {
+    "id": 1756482300982,
+    "title": "Scene 2025. 8. 30. 오전 12:45:00",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-d45c0ea9-9c09-49bb-9be8-227b29ab2d09",
+        "label": "woman",
+        "textDescription": "a young adult woman wearing a dress facing front",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "young",
+                "adult"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object1",
+              "relation": "facing front"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 158,
+          "y": 194,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-a3b731d3-a00a-4070-a4fc-7cf409c348d3",
+        "label": "man",
+        "textDescription": "a young adult man wearing a blue shirt and beige shorts facing front, wearing sandals, holding a basket and a tray",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "young",
+                "adult"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sandals",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "basket",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "tray",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 251,
+          "y": 161,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-7077ef82-e7fd-48cd-b1cc-0ebd16a7fe97",
+        "label": "girl",
+        "textDescription": "a girl wearing a pink shirt and white pants holding a yellow balloon, a girl holding a teddy bear",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "girl",
+              "attributes": [
+                "pink",
+                "white"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "pink"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "balloon",
+              "attributes": [
+                "yellow"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "teddy bear",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "girl",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object6",
+              "target": "object5",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 369,
+          "y": 237,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-5202bfdd-df1f-4c5a-af21-92a4428f7ab7",
+        "label": "car",
+        "textDescription": "a parked black sedan car facing right",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "car",
+              "attributes": [
+                "parked",
+                "black",
+                "sedan"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "right",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "facing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 243,
+          "y": 65,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-5cd11b37-98ad-4604-b71e-d5322f1557d7",
+        "label": "basket",
+        "textDescription": "basket",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "basket",
+              "attributes": []
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 209,
+          "y": 246,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-b0772b7b-4712-4987-9238-4a22aa065f64",
+        "label": "set",
+        "textDescription": "a set with a bottle of water on a tray",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "set",
+              "attributes": []
+            },
+            {
+              "id": "object2",
+              "name": "bottle",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "water",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "tray",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "with"
+            },
+            {
+              "source": "object2",
+              "target": "object3",
+              "relation": "of"
+            },
+            {
+              "source": "object2",
+              "target": "object4",
+              "relation": "on"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 336,
+          "y": 175,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-577e8abf-35fa-4722-8426-26bc535c1eae",
+        "label": "balloon",
+        "textDescription": "a bright yellow balloon with a smooth surface",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "balloon",
+              "attributes": [
+                "bright",
+                "yellow",
+                "smooth"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "surface",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "with"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 450,
+          "y": 229,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-38344dac-e03c-4a66-8734-2ea02430df16",
+        "label": "bear",
+        "textDescription": "a brown teddy bear",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "bear",
+              "attributes": [
+                "brown",
+                "teddy"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 358,
+          "y": 344,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-03d2a36a-bc9d-4a72-b311-e6716cbd0fc5",
+        "label": "tray",
+        "textDescription": "tray",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "tray",
+              "attributes": []
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 318,
+          "y": 231,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-4a4aef00-ee88-406e-b2fa-c3ed98a6b189",
+        "label": "man",
+        "textDescription": "an old man wearing a gray vest, black pants, and black shoes, facing front",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "old"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "vest",
+              "attributes": [
+                "gray"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object1",
+              "relation": "facing front"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 40,
+          "y": 251,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": [
+        {
+          "type": "spatial",
+          "from": "instance-a3b731d3-a00a-4070-a4fc-7cf409c348d3",
+          "to": "instance-5cd11b37-98ad-4604-b71e-d5322f1557d7",
+          "relationship": "holding"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-7077ef82-e7fd-48cd-b1cc-0ebd16a7fe97",
+          "to": "instance-38344dac-e03c-4a66-8734-2ea02430df16",
+          "relationship": "holding"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-7077ef82-e7fd-48cd-b1cc-0ebd16a7fe97",
+          "to": "instance-577e8abf-35fa-4722-8426-26bc535c1eae",
+          "relationship": "holding"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-b0772b7b-4712-4987-9238-4a22aa065f64",
+          "to": "instance-03d2a36a-bc9d-4a72-b311-e6716cbd0fc5",
+          "relationship": "on"
+        }
+      ]
+    },
+    "exportedAt": "2025-08-29T15:45:00.982Z",
+    "nodeCount": 10,
+    "edgeCount": 4
+  }
+]

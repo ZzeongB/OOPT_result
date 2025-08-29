@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a brown-haired stocky man in a white shirt and brown pants wearing sunglasses holding a map with one hand while putting his other hand inside his pocket with a silver watch, a fat woman with a T-shirt with various colors of flowers printed on it and blue short pants holding a paper cup with her left hand while her right hand is holding a silver suitcase and also wearing small earrings, a brown-haired stocky Latin man with a bright green T-shirt and brown short pants putting both of his hands inside his pants' pockets with a silver watch only on his left hand, a slim woman taking a picture with her camera while holding her straw hat and wearing a sky blue dress and sandals, and yellow European-style buildings that seem famous to tourists for their antique style.",
+  "region_captions": [
+    "a brown-haired stocky man in a white shirt and brown pants wearing sunglasses is holding a map with one hand while putting his other hand inside his pocket with a silver watch",
+    "a fat woman with a T-shirt with various colors of flowers printed on it and blue short pants is holding a paper cup with her left hand while her right hand is holding a silver suitcase and also wearing small earrings",
+    "a brown-haired stocky Latin man with a bright green T-shirt and brown short pants putting both of his hands inside his pants' pockets with a silver watch only on his left hand",
+    "a slim woman taking a picture with her camera while holding her straw hat and wearing a sky blue dress and sandals",
+    "yellow European-style buildings that seem famous to tourists for their antique style"
+  ],
+  "region_bboxes": [
+    [
+      0.00390625,
+      0.42578125,
+      0.255859375,
+      0.9609375
+    ],
+    [
+      0.271484375,
+      0.48046875,
+      0.53515625,
+      0.94140625
+    ],
+    [
+      0.548828125,
+      0.455078125,
+      0.77734375,
+      0.939453125
+    ],
+    [
+      0.7510782927274704,
+      0.484375,
+      0.9854532927274704,
+      0.943359375
+    ],
+    [
+      -0.00390625,
+      -0.0234375,
+      0.9921875,
+      0.46484375
+    ]
+  ]
+}

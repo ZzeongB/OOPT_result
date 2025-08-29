@@ -1,0 +1,63 @@
+{
+  "global_caption": "a scene featuring a male person wearing a white shirt, beige pants, black shoes, and a silver clock, facing forward, a forward-facing female wearing a white, flower-covered shirt, blue shorts, and black slippers, holding silver luggage with her right hand and take-out coffee with her left hand, a male person wearing beige shorts and a blue shirt and black sneakers while facing forward with his hands in the pockets of his shorts, a forward-facing female person wearing a blue dress and brown slippers, holding a black camera with her right hand and a beige hat with her left hand, together with a black camera, a beige hat, silver luggage, and take-out coffee.",
+  "region_captions": [
+    "a male person wearing a white shirt, beige pants, black shoes, and a silver clock, facing forward",
+    "a forward-facing female wearing a white, flower-covered shirt, blue shorts, and black slippers, holding silver luggage with her right hand and take-out coffee with her left hand",
+    "a male person wearing beige shorts and a blue shirt and black sneakers while facing forward with his hands in the pockets of his shorts",
+    "a forward-facing female person wearing a blue dress and brown slippers, holding a black camera with her right hand and a beige hat with her left hand",
+    "a black camera",
+    "a beige hat",
+    "silver luggage",
+    "take-out coffee"
+  ],
+  "region_bboxes": [
+    [
+      0.021484375,
+      0.39453125,
+      0.263671875,
+      0.912109375
+    ],
+    [
+      0.273223876953125,
+      0.359375,
+      0.532989501953125,
+      0.919921875
+    ],
+    [
+      0.529083251953125,
+      0.37109375,
+      0.753692626953125,
+      0.923828125
+    ],
+    [
+      0.747833251953125,
+      0.34375,
+      0.960723876953125,
+      0.92578125
+    ],
+    [
+      0.818145751953125,
+      0.330078125,
+      0.915802001953125,
+      0.427734375
+    ],
+    [
+      0.882598876953125,
+      0.63671875,
+      0.980255126953125,
+      0.734375
+    ],
+    [
+      0.203125,
+      0.634765625,
+      0.390625,
+      0.873046875
+    ],
+    [
+      0.478515625,
+      0.513671875,
+      0.576171875,
+      0.611328125
+    ]
+  ]
+}

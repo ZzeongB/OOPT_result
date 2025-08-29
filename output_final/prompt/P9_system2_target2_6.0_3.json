@@ -1,0 +1,56 @@
+{
+  "global_caption": "a scene featuring a man wearing a white short-sleeved shirt, brown pants, and black shoes, with a watch on his left hand and black sunglasses, holding a big map; a female with long hair wearing a white, short-sleeved, flowery patterned shirt, short jeans, and black sandals, holding a brown passport and carrying blue luggage; a man wearing a green short-sleeved t-shirt, brown short pants, and black shoes, putting his two hands in his pant's pockets, not wearing sunglasses; and a female wearing a sky blue sleeveless dress and brown sandals, taking a photo with a camera held in her left hands while holding a big straw hat.",
+  "region_captions": [
+    "a man wearing a white short-sleeved shirt, brown pants, and black shoes, with a watch on his left hand and black sunglasses, holding a big map",
+    "a big map",
+    "a female with long hair wearing a white, short-sleeved, flowery patterned shirt, short jeans, and black sandals, holding a brown passport and carrying blue luggage",
+    "a man wearing a green short-sleeved t-shirt, brown short pants, and black shoes, putting his two hands in his pant's pockets, with no sunglasses",
+    "blue luggage",
+    "a female wearing a sky blue sleeveless dress and brown sandals, taking a photo with a camera held in her left hands, with no sunglasses, while holding a big straw hat",
+    "a big straw hat"
+  ],
+  "region_bboxes": [
+    [
+      0.01953125,
+      0.4589843712747097,
+      0.212890625,
+      0.9863281212747097
+    ],
+    [
+      -0.015576168894767761,
+      0.6773437485098839,
+      0.11137695610523224,
+      0.8238281235098839
+    ],
+    [
+      0.27153320610523224,
+      0.5582031235098839,
+      0.45317383110523224,
+      0.9683593735098839
+    ],
+    [
+      0.49809570610523224,
+      0.5035156235098839,
+      0.6973144561052322,
+      0.9703124985098839
+    ],
+    [
+      0.25590820610523224,
+      0.7730468735098839,
+      0.37309570610523224,
+      0.9820312485098839
+    ],
+    [
+      0.7441894561052322,
+      0.5367187485098839,
+      0.9297363311052322,
+      0.9722656235098839
+    ],
+    [
+      0.8242675811052322,
+      0.7085937485098839,
+      0.9355957061052322,
+      0.8160156235098839
+    ]
+  ]
+}

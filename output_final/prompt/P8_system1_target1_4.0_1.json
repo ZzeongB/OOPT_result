@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a grandfather wearing a black hat, a white shirt, a gray cardigan, black suit pants, and formal shoes, who is white-haired and looking at his granddaughter with a smile on his face; a mother wearing a short-sleeved long one-piece dress and white slippers, holding a basket full of groceries; a father with brown curly hair wearing a blue collar t-shirt, beige short pants, and black slippers, holding a package of plastic water bottles in one hand and the basket with the mother in the other hand; a daughter wearing a hot pink sleeveless t-shirt, a white skirt, and pink shoes, holding a yellow balloon with one hand and a teddy bear with the other hand; green trees; and a black SUV car.",
+  "region_captions": [
+    "a grandfather wearing a black hat, a white shirt, a gray cardigan, black suit pants, and formal shoes. He is white-haired and is looking at his granddaughter with a smile on his face.",
+    "a mother wearing a short-sleeved long one-piece dress and white slippers. She has black hair and is holding a basket full of groceries.",
+    "a father with brown curly hair wearing a blue collar t-shirt, beige short pants, and black slippers. A package of plastic water bottles is in his hand, and with the other hand, he is holding the basket with the mother.",
+    "a daughter wearing a hot pink sleeveless t-shirt, a white skirt, and pink shoes. She is holding a yellow balloon with one hand and a teddy bear with the other hand.",
+    "green trees",
+    "a black SUV car"
+  ],
+  "region_bboxes": [
+    [
+      -0.001953125,
+      0.466796875,
+      0.09765625,
+      0.56640625
+    ],
+    [
+      0.24609375,
+      0.3984375,
+      0.49609375,
+      0.919921875
+    ],
+    [
+      0.484375,
+      0.314453125,
+      0.74609375,
+      0.923828125
+    ],
+    [
+      0.7522690668702126,
+      0.53125,
+      0.9671128168702126,
+      0.896484375
+    ],
+    [
+      -0.013355933129787445,
+      0.006175316870212555,
+      0.9807846918702126,
+      0.36945656687021255
+    ],
+    [
+      0.7578125,
+      0.35546875,
+      0.974609375,
+      0.46875
+    ]
+  ]
+}

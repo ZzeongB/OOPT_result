@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a middle-aged woman holding a basket walking with her husband, who has a happy smile and is wearing a flower-patterned one-piece, a man putting his hand on his wife while lifting a tray with a lot of water bottles on it, where she is wearing a blue T-shirt and beige-colored short pants, an old man wearing a gray cardigan and black beret taking a lovely look at a girl at the opposite side while walking beside the couple independently, a girl with a pink sleeveless shirt holding a yellow balloon in her left hand and a teddy bear in her right hand while walking toward the front side, and some cars parked in the park in the background.",
+  "region_captions": [
+    "a middle-aged woman holding a basket is walking with her husband, who has a happy smile, and is wearing a flower-patterned one-piece",
+    "the man, putting his hand on his wife, is lifting a tray with a lot of water bottles on it, while she is wearing a blue T-shirt and beige-colored short pants",
+    "an old man wearing a gray cardigan and black beret is taking a lovely look at a girl at the opposite side while walking beside the couple independently",
+    "the girl with a pink sleeveless shirt is holding a yellow balloon in her left hand and a teddy bear in her right hand while walking toward the front side",
+    "there are some cars parked in the park in the background"
+  ],
+  "region_bboxes": [
+    [
+      0.287109375,
+      0.416015625,
+      0.49609375,
+      0.859375
+    ],
+    [
+      0.515625,
+      0.384765625,
+      0.705078125,
+      0.859375
+    ],
+    [
+      0.03515625,
+      0.505859375,
+      0.21875,
+      0.87890625
+    ],
+    [
+      0.7437499985098839,
+      0.576171875,
+      0.8667968735098839,
+      0.8671875
+    ],
+    [
+      0.0390625,
+      0.052734375,
+      0.96875,
+      0.603515625
+    ]
+  ]
+}

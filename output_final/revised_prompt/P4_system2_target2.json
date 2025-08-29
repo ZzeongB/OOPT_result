@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1756481248569,
+    "title": "Scene 2025. 8. 30. 오전 12:27:28",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-33b3d415-d0ad-412d-8cef-1e7c145b506c",
+        "label": "man",
+        "textDescription": "A young man is wearing a white shirt, beige pants, and black shoes, with black sunglasses on. He is holding a camera in his right hand while looking at a woman who is holding a camera. His left hand is in his pocket, and he is wearing a watch on his left wrist.",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "young"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "sunglasses",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "object7",
+              "name": "woman",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "hand",
+              "attributes": [
+                "right"
+              ]
+            },
+            {
+              "id": "object9",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object10",
+              "name": "pocket",
+              "attributes": []
+            },
+            {
+              "id": "object11",
+              "name": "watch",
+              "attributes": []
+            },
+            {
+              "id": "object12",
+              "name": "wrist",
+              "attributes": [
+                "left"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "looking at"
+            },
+            {
+              "source": "object7",
+              "target": "object6",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object10",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object11",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object12",
+              "relation": "on"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 18,
+          "y": 213,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-5822ff86-f440-48b4-8e32-2dd6ea65950d",
+        "label": "woman",
+        "textDescription": "A fatty woman in a flower-patterned dress, jean shorts, and sandals is holding luggage in her left hand while looking at another woman who is holding a camera.",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "fatty"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "flower-patterned"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "jean"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sandals",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "luggage",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "woman",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "camera",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "looking at"
+            },
+            {
+              "source": "object7",
+              "target": "object8",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 133,
+          "y": 179,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-5d3f601e-b29e-4d59-8e07-f06895aea1e0",
+        "label": "man",
+        "textDescription": "A young man is wearing a green T-shirt, beige short pants, and black sneakers. He has a gray watch on his left wrist and is holding something in both hands. His hands are in his pocket. He interestingly watches the girl who holds a camera.",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "young"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "T-shirt",
+              "attributes": [
+                "green"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "beige",
+                "short"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sneakers",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "watch",
+              "attributes": [
+                "gray"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "wrist",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "hands",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "pocket",
+              "attributes": []
+            },
+            {
+              "id": "object9",
+              "name": "girl",
+              "attributes": []
+            },
+            {
+              "id": "object10",
+              "name": "camera",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "on"
+            },
+            {
+              "source": "object5",
+              "target": "object6",
+              "relation": "on"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "holding"
+            },
+            {
+              "source": "object7",
+              "target": "object8",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object9",
+              "relation": "watches"
+            },
+            {
+              "source": "object9",
+              "target": "object10",
+              "relation": "holds"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 267,
+          "y": 182,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-fda86da4-0088-4471-bfcd-0e4b964a3945",
+        "label": "woman",
+        "textDescription": "A woman with long hair is wearing a bright blue one-piece dress and sandals. She is holding a camera in her right hand and taking a photo. ",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "long",
+                "hair"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "bright",
+                "blue",
+                "one-piece"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "sandals",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "hand",
+              "attributes": [
+                "right"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "photo",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding in"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "taking"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 362,
+          "y": 238,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-9ba839f6-4a1d-4699-b400-f92160689d22",
+        "label": "hat",
+        "textDescription": "A hat",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "hat",
+              "attributes": []
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 417,
+          "y": 304,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-8ddc3150-cef7-4470-880b-6d34e9137505",
+        "label": "map",
+        "textDescription": "A map",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "map",
+              "attributes": []
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 8,
+          "y": 320,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-701e298e-005b-4dd5-afec-ec4ac036225a",
+        "label": "cup",
+        "textDescription": "coffee cup",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "cup",
+              "attributes": [
+                "coffee"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 200,
+          "y": 273,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": [
+        {
+          "type": "spatial",
+          "from": "instance-33b3d415-d0ad-412d-8cef-1e7c145b506c",
+          "to": "instance-8ddc3150-cef7-4470-880b-6d34e9137505",
+          "relationship": "holding"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-fda86da4-0088-4471-bfcd-0e4b964a3945",
+          "to": "instance-9ba839f6-4a1d-4699-b400-f92160689d22",
+          "relationship": "holding"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-5822ff86-f440-48b4-8e32-2dd6ea65950d",
+          "to": "instance-701e298e-005b-4dd5-afec-ec4ac036225a",
+          "relationship": "holding"
+        }
+      ]
+    },
+    "exportedAt": "2025-08-29T15:27:28.569Z",
+    "nodeCount": 7,
+    "edgeCount": 3
+  }
+]

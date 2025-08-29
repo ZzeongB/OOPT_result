@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a man wearing a white shirt, beige pants, and black shoes, holding a map in his right hand and wearing sunglasses, a woman wearing a white shirt with pink flower patterns, short jeans, and a pair of sandals, holding a coffee in her left hand and a grey luggage in her right hand, a man wearing a green shirt, beige shorts, and black shoes, with short black hair and wearing a watch on his left wrist, a woman wearing a long light-blue dress and a pair of sandals, holding a beige hat in her left hand and a black camera in her right hand, and a city with yellow and white colored antique buildings in the back.",
+  "region_captions": [
+    "a man wearing a white shirt, beige pants, and black shoes. He is holding a map in his right hand and is wearing sunglasses",
+    "a woman wearing a white shirt with pink flower patterns, short jeans, and a pair of sandals. She is holding a coffee in her left hand and a grey luggage in her right hand",
+    "a man wearing a green shirt, beige shorts, and black shoes. He has a short black hair and wearing a watch on his left wrist",
+    "a woman wearing a long light-blue dress and a pair of sandals. She is holding a beige hat in her left hand and a black camera in her right hand",
+    "a city with yellow and white colored antique buildings in the back"
+  ],
+  "region_bboxes": [
+    [
+      -0.013671875,
+      0.443359375,
+      0.16015625,
+      0.900390625
+    ],
+    [
+      0.20703125,
+      0.5,
+      0.404296875,
+      0.896484375
+    ],
+    [
+      0.4765625,
+      0.46484375,
+      0.70703125,
+      0.908203125
+    ],
+    [
+      0.734375,
+      0.529296875,
+      0.900390625,
+      0.90625
+    ],
+    [
+      -0.015625,
+      -0.03125,
+      0.986328125,
+      0.494140625
+    ]
+  ]
+}

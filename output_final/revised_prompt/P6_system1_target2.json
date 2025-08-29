@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1756481611899,
+    "title": "Scene 2025. 8. 30. 오전 12:33:31",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-421c786f-f479-472a-b989-4f4c0788f8a2",
+        "label": "guy",
+        "textDescription": "an adult guy wearing a white shirt and a watch, wearing light-brown pants, holding a map, and wearing black shoes",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "guy",
+              "attributes": [
+                "adult"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "watch",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "pants",
+              "attributes": [
+                "light-brown"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "map",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 31,
+          "y": 202,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-1811ab18-12eb-430a-900e-08194d200ba7",
+        "label": "woman",
+        "textDescription": "an adult woman with a flower-patterned shirt and blue shorts, carrying luggage and holding coffee",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "adult",
+                "flower-patterned",
+                "blue"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "luggage",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "coffee",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "carrying"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 141,
+          "y": 165,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-56357a65-4aca-408f-9c5e-ec5f6def01d6",
+        "label": "man",
+        "textDescription": "an adult man wearing a green shirt and a watch, wearing beige shorts and black shoes",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "adult"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "green"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "watch",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "shorts",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 221,
+          "y": 165,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-476c8289-0ca4-4788-bd5b-fe2ccb3696c2",
+        "label": "woman",
+        "textDescription": "an adult woman wearing a light blue dress, taking a photo with a camera and holding a hat",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "adult"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "light",
+                "blue"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "hat",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "taking a photo with"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 349,
+          "y": 181,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T15:33:31.899Z",
+    "nodeCount": 4,
+    "edgeCount": 0
+  }
+]

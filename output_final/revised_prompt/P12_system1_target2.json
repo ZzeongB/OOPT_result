@@ -1,0 +1,419 @@
+[
+  {
+    "id": 1756482109817,
+    "title": "Scene 2025. 8. 30. 오전 12:41:49",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-b6b37cea-7612-4c5a-8e70-3f41db6dd546",
+        "label": "male",
+        "textDescription": "a male with short brown hair, around 180 cm, wearing black sunglasses and a black watch on his left wrist, holding a pastel colored big map in his right hand, wearing a short sleeved tight white shirt, beige long pants, and black oxford shoes, looking at the people on the left side, standing in a line, facing forward",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "male",
+              "attributes": [
+                "short",
+                "brown"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "sunglasses",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "watch",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "map",
+              "attributes": [
+                "pastel",
+                "big"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "shirt",
+              "attributes": [
+                "short",
+                "sleeved",
+                "tight",
+                "white"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "pants",
+              "attributes": [
+                "beige",
+                "long"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "shoes",
+              "attributes": [
+                "black",
+                "oxford"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "people",
+              "attributes": []
+            },
+            {
+              "id": "object9",
+              "name": "line",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "looking at"
+            },
+            {
+              "source": "object1",
+              "target": "object9",
+              "relation": "standing in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 41,
+          "y": 170,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-8e7bdaaf-28e6-4c04-931f-9ee964a1d392",
+        "label": "female",
+        "textDescription": "a female with long black hair, 165 cm tall, wearing a pink and blue flower patterned short sleeve shirt, holding a cup of coffee in her left hand, with a silver luggage in front of her, wearing short blue pants and flat slippers, looking to the left, standing in a line, facing forward",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "female",
+              "attributes": [
+                "long",
+                "black",
+                "165 cm",
+                "pink",
+                "blue",
+                "flower",
+                "patterned",
+                "short",
+                "sleeve",
+                "blue",
+                "short",
+                "flat",
+                "slippers"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "cup",
+              "attributes": [
+                "coffee"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "luggage",
+              "attributes": [
+                "silver"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "line",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "in front of"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "standing in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 173,
+          "y": 126,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-d9ddfe61-441b-44ec-ad83-5402323b235e",
+        "label": "male",
+        "textDescription": "a male with short black hair, wearing a neon green short sleeve shirt and beige knee-length shorts with black sneakers, turning his body slightly to the left, wearing a black and white bracelet on his left wrist, standing in a line, facing forward, without sunglasses",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "male",
+              "attributes": [
+                "short",
+                "black"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "neon",
+                "green",
+                "short",
+                "sleeve"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "beige",
+                "knee-length"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sneakers",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "bracelet",
+              "attributes": [
+                "black",
+                "white"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "line",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "standing in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 276,
+          "y": 159,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-fd41fa85-2e69-47b3-83d1-97d38ad43365",
+        "label": "woman",
+        "textDescription": "a woman with medium black hair wearing a sleeveless sky blue dress just below the knee, flat magenta slippers, taking a photo of something above her with her smartphone, holding a straw sun hat in the other hand, standing in a line, facing forward",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "medium",
+                "black"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "sleeveless",
+                "sky",
+                "blue",
+                "just",
+                "below",
+                "knee"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "slippers",
+              "attributes": [
+                "flat",
+                "magenta"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "photo",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "smartphone",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "hat",
+              "attributes": [
+                "straw",
+                "sun"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "line",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "taking"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "standing in"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "facing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 389,
+          "y": 167,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T15:41:49.817Z",
+    "nodeCount": 4,
+    "edgeCount": 0
+  }
+]

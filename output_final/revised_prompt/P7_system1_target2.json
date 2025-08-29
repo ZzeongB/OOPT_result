@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1756481776279,
+    "title": "Scene 2025. 8. 30. 오전 12:36:16",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-3fe4b332-adf4-487c-805a-20b05bda4717",
+        "label": "man",
+        "textDescription": "a brown-haired stocky man in a white shirt and brown pants wearing sunglasses is holding a map with one hand while putting his other hand inside his pocket with a silver watch",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "brown-haired",
+                "stocky"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "brown"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sunglasses",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "map",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "one"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "hand",
+              "attributes": [
+                "other"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "pocket",
+              "attributes": []
+            },
+            {
+              "id": "object9",
+              "name": "watch",
+              "attributes": [
+                "silver"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "using"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "putting inside"
+            },
+            {
+              "source": "object7",
+              "target": "object8",
+              "relation": "inside"
+            },
+            {
+              "source": "object1",
+              "target": "object9",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 22,
+          "y": 194,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-f4bb1ec2-522b-4ca6-8e22-1890acafdcc5",
+        "label": "woman",
+        "textDescription": "a fat woman with a T-shirt with various colors of flowers printed on it and blue short pants is holding a paper cup with her left hand while her right hand is holding a silver suitcase and also wearing small earrings",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "fat"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "T-shirt",
+              "attributes": [
+                "various",
+                "colors",
+                "flowers",
+                "printed"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "blue",
+                "short"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "cup",
+              "attributes": [
+                "paper"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "right"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "suitcase",
+              "attributes": [
+                "silver"
+              ]
+            },
+            {
+              "id": "object8",
+              "name": "earrings",
+              "attributes": [
+                "small"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 120,
+          "y": 168,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-d73ba0a4-10fb-4328-a623-467d47f7e1e2",
+        "label": "man",
+        "textDescription": "a brown-haired stocky Latin man with a bright green T-shirt and brown short pants putting both of his hands inside his pants' pockets with a silver watch only on his left hand",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "man",
+              "attributes": [
+                "brown-haired",
+                "stocky",
+                "Latin"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "T-shirt",
+              "attributes": [
+                "bright",
+                "green"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "brown",
+                "short"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "hands",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "pockets",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "watch",
+              "attributes": [
+                "silver"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "hand",
+              "attributes": [
+                "left"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "putting inside"
+            },
+            {
+              "source": "object4",
+              "target": "object5",
+              "relation": "inside"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "wearing on"
+            },
+            {
+              "source": "object6",
+              "target": "object7",
+              "relation": "on"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 254,
+          "y": 205,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-3330bfcd-6c0a-4384-a2f6-0835af458448",
+        "label": "woman",
+        "textDescription": "a slim woman taking a picture with her camera while holding her straw hat and wearing a sky blue dress and sandals",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "woman",
+              "attributes": [
+                "slim"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "picture",
+              "attributes": []
+            },
+            {
+              "id": "object3",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "hat",
+              "attributes": [
+                "straw"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "dress",
+              "attributes": [
+                "sky",
+                "blue"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "sandals",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "taking"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 365,
+          "y": 189,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-46c6fc62-98a7-461f-a9a1-0dcf4e51eb61",
+        "label": "building",
+        "textDescription": "yellow European-style buildings that seem famous to tourists for their antique style",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "building",
+              "attributes": [
+                "yellow",
+                "European-style",
+                "antique"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "tourist",
+              "attributes": [
+                "famous"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "seem famous to"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 20,
+          "y": 0,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T15:36:16.280Z",
+    "nodeCount": 5,
+    "edgeCount": 0
+  }
+]

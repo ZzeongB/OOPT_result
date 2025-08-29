@@ -1,0 +1,56 @@
+{
+  "global_caption": "a scene featuring a young man wearing a white shirt, black sunglasses, beige pants, and black shoes looking at a woman holding a camera, a fatty woman in a flower-patterned dress, jean shorts, and sandals holding a cup of coffee in her left hand and luggage in her right hand while looking at another woman who is holding a camera, a young man wearing a green T-shirt, beige short pants, and black sneakers with a gray watch on his left wrist holding something in both hands and interestingly watching the girl who holds a camera, a woman with long hair wearing a bright blue one-piece dress taking a photo with a camera in her right hand while holding a hat in her left hand, a hat on the woman, a map, and a coffee cup on the woman.",
+  "region_captions": [
+    "A young man is wearing a white shirt, beige pants, and black shoes, with black sunglasses on. He is holding a camera in his right hand while looking at a woman who is holding a camera. His left hand is in his pocket, and he is wearing a watch on his left wrist. The man looks at the woman. The man is holding a map.",
+    "A fatty woman in a flower-patterned dress, jean shorts, and sandals is holding luggage in her left hand while looking at another woman who is holding a camera. The woman looks at the woman. The woman is holding a cup.",
+    "A young man is wearing a green T-shirt, beige short pants, and black sneakers. He has a gray watch on his left wrist and is holding something in both hands. His hands are in his pocket. He interestingly watches the girl who holds a camera. The man looks at the woman.",
+    "A woman with long hair is wearing a bright blue one-piece dress and sandals. She is holding a camera in her right hand and taking a photo. The woman is holding a hat.",
+    "A hat is on the woman.",
+    "A map is present.",
+    "A coffee cup is on the woman."
+  ],
+  "region_bboxes": [
+    [
+      0.064453125,
+      0.3300781212747097,
+      0.25,
+      0.8515624962747097
+    ],
+    [
+      0.279296875,
+      0.3710937462747097,
+      0.486328125,
+      0.8515624962747097
+    ],
+    [
+      0.5059082061052322,
+      0.3648437485098839,
+      0.7129394561052322,
+      0.8511718735098839
+    ],
+    [
+      0.7500488311052322,
+      0.3687499985098839,
+      0.9355957061052322,
+      0.8609374985098839
+    ],
+    [
+      0.8613769561052322,
+      0.5425781235098839,
+      0.9590332061052322,
+      0.6402343735098839
+    ],
+    [
+      0.03520508110523224,
+      0.5289062485098839,
+      0.13286133110523224,
+      0.6265624985098839
+    ],
+    [
+      0.37700195610523224,
+      0.4917968735098839,
+      0.47465820610523224,
+      0.5894531235098839
+    ]
+  ]
+}

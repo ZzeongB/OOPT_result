@@ -1,0 +1,421 @@
+[
+  {
+    "id": 1756479527068,
+    "title": "Scene 2025. 8. 29. 오후 11:58:47",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-25345e79-8ad0-4233-b4dd-8bf21577596e",
+        "label": "José",
+        "textDescription": "José wearing a white shirt and beige pants, wearing sunglasses, holding a map in one hand and with the other hand in his pocket",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "José",
+              "attributes": []
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "map",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "hand",
+              "attributes": [
+                "one"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "other"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "pocket",
+              "attributes": []
+            },
+            {
+              "id": "object8",
+              "name": "sunglasses",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "with"
+            },
+            {
+              "source": "object1",
+              "target": "object8",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 48,
+          "y": 183,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-0165428a-cc11-4f2d-b567-66fbd38ab76d",
+        "label": "Julia",
+        "textDescription": "Julia with floral shirt, blue shorts, no glasses, holding coffee in one hand and a suitcase in the other hand",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "Julia",
+              "attributes": [
+                "floral",
+                "blue"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "floral"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "coffee",
+              "attributes": []
+            },
+            {
+              "id": "object5",
+              "name": "suitcase",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "one"
+              ]
+            },
+            {
+              "id": "object7",
+              "name": "hand",
+              "attributes": [
+                "other"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "using"
+            },
+            {
+              "source": "object1",
+              "target": "object7",
+              "relation": "using"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 161,
+          "y": 217,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-20ec8d7f-7565-445d-bbaa-591f847c58d7",
+        "label": "Diago",
+        "textDescription": "Diago with green t-shirt and beige shorts, no glasses, with both hands in his pockets",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "Diago",
+              "attributes": [
+                "green",
+                "beige"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "t-shirt",
+              "attributes": [
+                "green"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "glasses",
+              "attributes": [
+                "none"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "hands",
+              "attributes": [
+                "both"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "pockets",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "not wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "with"
+            },
+            {
+              "source": "object5",
+              "target": "object6",
+              "relation": "in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 278,
+          "y": 223,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-1a9522b7-cbab-42d3-8ed2-11449b198096",
+        "label": "Cristina",
+        "textDescription": "Cristina in light blue dress, taking a picture with a camera in one hand and **holding** a straw hat in the other hand",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "Cristina",
+              "attributes": []
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "light",
+                "blue"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "camera",
+              "attributes": []
+            },
+            {
+              "id": "object4",
+              "name": "hand",
+              "attributes": [
+                "one"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "hat",
+              "attributes": [
+                "straw"
+              ]
+            },
+            {
+              "id": "object6",
+              "name": "hand",
+              "attributes": [
+                "other"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "taking a picture with"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "in"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "holding"
+            },
+            {
+              "source": "object1",
+              "target": "object6",
+              "relation": "in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 392,
+          "y": 253,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-2b6c1903-4edd-48a6-af95-07e5d0ef8cd4",
+        "label": "building",
+        "textDescription": "Central European city-style yellow buildings and alley in background",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "building",
+              "attributes": [
+                "Central",
+                "European",
+                "city-style",
+                "yellow"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "alley",
+              "attributes": [
+                "background"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 52,
+          "y": 20,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": []
+    },
+    "exportedAt": "2025-08-29T14:58:47.068Z",
+    "nodeCount": 5,
+    "edgeCount": 0
+  }
+]

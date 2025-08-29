@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1756481512907,
+    "title": "Scene 2025. 8. 30. 오전 12:31:52",
+    "globalCaption": "Generated scene",
+    "instances": [
+      {
+        "id": "instance-2354821f-fce9-4287-b828-53482e391882",
+        "label": "person",
+        "textDescription": "a male person wearing a white shirt, beige pants, black shoes, and a silver clock, facing forward",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "person",
+              "attributes": [
+                "male"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "pants",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "shoes",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "clock",
+              "attributes": [
+                "silver"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object1",
+              "relation": "facing forward"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 31,
+          "y": 238,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-10f2ef2c-0794-4cab-9a48-35551e40d9ba",
+        "label": "female",
+        "textDescription": "a forward-facing female wearing a white, flower-covered shirt, blue shorts, and black slippers, ",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "female",
+              "attributes": [
+                "forward-facing"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shirt",
+              "attributes": [
+                "white",
+                "flower-covered"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shorts",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "slippers",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 130,
+          "y": 201,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-44722938-22ed-40bb-8b2a-be6bcadf3a71",
+        "label": "person",
+        "textDescription": "a male person wearing beige shorts and a blue shirt and black sneakers while facing forward with his hands in the pockets of his shorts",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "person",
+              "attributes": [
+                "male"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "shorts",
+              "attributes": [
+                "beige"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "shirt",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object4",
+              "name": "sneakers",
+              "attributes": [
+                "black"
+              ]
+            },
+            {
+              "id": "object5",
+              "name": "hands",
+              "attributes": []
+            },
+            {
+              "id": "object6",
+              "name": "pockets",
+              "attributes": []
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object4",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object5",
+              "relation": "facing"
+            },
+            {
+              "source": "object5",
+              "target": "object6",
+              "relation": "in"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 221,
+          "y": 235,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-11fcc3cd-c611-434c-ab83-d295c5d783b4",
+        "label": "person",
+        "textDescription": "a forward-facing female person wearing a blue dress and brown slippers",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "person",
+              "attributes": [
+                "forward-facing",
+                "female"
+              ]
+            },
+            {
+              "id": "object2",
+              "name": "dress",
+              "attributes": [
+                "blue"
+              ]
+            },
+            {
+              "id": "object3",
+              "name": "slippers",
+              "attributes": [
+                "brown"
+              ]
+            }
+          ],
+          "relationships": [
+            {
+              "source": "object1",
+              "target": "object2",
+              "relation": "wearing"
+            },
+            {
+              "source": "object1",
+              "target": "object3",
+              "relation": "wearing"
+            }
+          ],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 317,
+          "y": 188,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-2187597b-0c20-4024-bea3-a85715e48bb2",
+        "label": "camera",
+        "textDescription": "a black camera",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "camera",
+              "attributes": [
+                "black"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 317,
+          "y": 275,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-26d7e3b7-09d5-47f9-adf1-025cd5177ed1",
+        "label": "hat",
+        "textDescription": "a beige hat",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "hat",
+              "attributes": [
+                "beige"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 382,
+          "y": 307,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-84146a48-ff97-4656-baad-6c9d9deaa541",
+        "label": "luggage",
+        "textDescription": "silver luggage",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "luggage",
+              "attributes": [
+                "silver"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 106,
+          "y": 329,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      },
+      {
+        "id": "instance-0d997518-5b56-45ce-bb1e-f7bead304c1f",
+        "label": "coffee",
+        "textDescription": "take-out coffee",
+        "sceneGraph": {
+          "objects": [
+            {
+              "id": "object1",
+              "name": "coffee",
+              "attributes": [
+                "take-out"
+              ]
+            }
+          ],
+          "relationships": [],
+          "root": "object1"
+        },
+        "boundingBox": {
+          "x": 191,
+          "y": 264,
+          "width": 50,
+          "height": 50
+        },
+        "isFromClass": false
+      }
+    ],
+    "sceneGraph": {
+      "relationships": [
+        {
+          "type": "spatial",
+          "from": "instance-11fcc3cd-c611-434c-ab83-d295c5d783b4",
+          "to": "instance-2187597b-0c20-4024-bea3-a85715e48bb2",
+          "relationship": "holding with right hand"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-11fcc3cd-c611-434c-ab83-d295c5d783b4",
+          "to": "instance-26d7e3b7-09d5-47f9-adf1-025cd5177ed1",
+          "relationship": "holding with right hand"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-10f2ef2c-0794-4cab-9a48-35551e40d9ba",
+          "to": "instance-84146a48-ff97-4656-baad-6c9d9deaa541",
+          "relationship": "with her right hand"
+        },
+        {
+          "type": "spatial",
+          "from": "instance-10f2ef2c-0794-4cab-9a48-35551e40d9ba",
+          "to": "instance-0d997518-5b56-45ce-bb1e-f7bead304c1f",
+          "relationship": "with her left hand"
+        }
+      ]
+    },
+    "exportedAt": "2025-08-29T15:31:52.907Z",
+    "nodeCount": 8,
+    "edgeCount": 4
+  }
+]
