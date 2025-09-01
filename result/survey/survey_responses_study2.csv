@@ -1,0 +1,7 @@
+timestamp,user_id,session_id,system_type,language,completion_time,system_usage_duration,additional_feedback,mental_demand,temporal_demand,performance,effort,frustration,exploration,engagement,effort_reward,transparency,expressiveness,dg1_clarity,dg2_prompt_to_image,dg2_image_to_prompt,dg3_reusability,dg3_selective_edit
+2025-08-22T09:26:15.453756,P1,e5466056-3354-4623-8ea1-e8a18af6d601,OOPT,ko,2025-08-22T09:26:13.122Z,3156356,각 오브젝트뿐 아니라 전체 그림을 하이레벨에서 관리할 수 있는 수단이 하나는 있으면 더 좋을 것 같다. negative prompt?가 지원되어도 좋을 것 같다. 사소한 의견입니다...!,4,4,5,5,2,6,7,7,6,6,6,7,7,7,7
+2025-08-23T02:21:42.148532,P2,5a569202-eeea-41bb-9e3a-68dda74fa20c,OOPT,ko,2025-08-23T02:21:41.994Z,2883902,버그 수정해주세요!!!!!,1,1,6,3,2,5,7,7,6,7,7,7,7,7,7
+2025-08-23T07:05:43.191893,P3,6c77a175-b038-4777-8ac4-52eb443031ec,OOPT,ko,2025-08-23T07:05:42.989Z,2903281,배경이나 구도나 배경설명?설정사항? 들을 할 수 있으면 좋겠습니다,4,3,5,4,2,4,4,6,5,5,6,7,5,7,5
+2025-08-25T13:32:42.053465,P4,60574dc3-f482-4ae5-a84f-c8056856e65a,OOPT,ko,2025-08-25T13:32:41.887Z,3263761,,3,2,6,3,1,3,6,5,6,6,6,7,6,7,2
+2025-08-30T00:47:01.620440,P5,c8a11a37-2a2a-4691-84d9-7d4c35c7cc61,OOPT,ko,2025-08-30T00:47:01.569Z,2813110,,1,1,6,2,1,7,7,7,4,7,7,7,7,7,7
+2025-08-30T02:31:13.472272,P6,56ad08db-2913-4791-82ee-e1f328d5feca,OOPT,ko,2025-08-30T02:31:13.429Z,2277695,,2,2,3,5,5,3,6,5,3,3,3,3,5,5,3
