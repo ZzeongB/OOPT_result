@@ -1,0 +1,34 @@
+user_id,video_time,abs_log_ts,src_label,dst_label,relation,src_instance_id,dst_instance_id,note
+P1,26:32,2025-08-24T11:53:53.507241,woman,man,holding,instance-d01373cb-6088-4a7c-a7b4-fdc5b1627e8f,LBL:elderly man,
+P1,34:02,2025-08-24T12:01:23.507241,grandpa,girl,watching,instance-7a1ebca4-f303-4497-87ae-c01929e70770,instance-7d6736ec-8114-4862-8acd-e84a612d4936,
+P1,34:40,2025-08-24T12:02:01.507241,girl,balloon,holding,instance-7d6736ec-8114-4862-8acd-e84a612d4936,UNKNOWN:balloon,[no dst match: 'balloon']
+P2,10:38,2025-08-14T01:20:23.917189,Female,Man,holding hands,instance-e302c54a-73b6-459c-bbf8-7e4190fbc178,instance-4070c3dc-fb3f-4a4b-8de8-dfd94624249c,
+P2,11:16,2025-08-14T01:21:01.917189,Female,basket,holding,instance-e302c54a-73b6-459c-bbf8-7e4190fbc178,instance-43eb5de6-da11-405e-9560-ef5c6a93b265,
+P2,11:23,2025-08-14T01:21:08.917189,Man,basket,holding,instance-4070c3dc-fb3f-4a4b-8de8-dfd94624249c,instance-43eb5de6-da11-405e-9560-ef5c6a93b265,
+P2,12:20,2025-08-14T01:22:05.917189,Man,pan,holding up with one hand,instance-4070c3dc-fb3f-4a4b-8de8-dfd94624249c,instance-8a6c6223-eeee-4bd6-86aa-d4d73f750771,
+P2,12:56,2025-08-14T01:22:41.917189,bottle,pan,on,UNKNOWN:bottle,instance-8a6c6223-eeee-4bd6-86aa-d4d73f750771,[no src match: 'bottle']
+P2,14:18,2025-08-14T01:24:03.917189,Child,ballon,holding,instance-250254db-a095-4413-ad27-632062feffef,instance-d31cbe9d-2d5c-420d-bf3d-59c3a84b70be,
+P2,14:48,2025-08-14T01:24:33.917189,Child,bear,holding,instance-250254db-a095-4413-ad27-632062feffef,UNKNOWN:bear,[no dst match: 'bear']
+P4,1:11:40,2025-08-14T14:33:20.770917,man,Woman,look,instance-b96034a2-a9c6-436d-aa59-e24e04e6e019,instance-ace02351-28c3-4cbb-a665-bc45d5a6557d,
+P4,1:11:49,2025-08-14T14:33:29.770917,woman,Woman,look,instance-ace02351-28c3-4cbb-a665-bc45d5a6557d,instance-ace02351-28c3-4cbb-a665-bc45d5a6557d,
+P4,1:11:56,2025-08-14T14:33:36.770917,Young man,Woman,look,instance-cc66915c-c726-49e1-ac77-fba7c0296fff,instance-ace02351-28c3-4cbb-a665-bc45d5a6557d,
+P5,24:44,2025-08-19T07:34:04.345217,Female person,camera,holding with right hand,instance-0a5ac473-44cc-412c-bafb-cf414c799b3c,instance-c96a0772-6f53-4fcc-9859-fdce212cf81e,
+P5,25:30,2025-08-19T07:34:50.345217,Female person,hat,holding with left hand,instance-0a5ac473-44cc-412c-bafb-cf414c799b3c,UNKNOWN:hat,[no dst match: 'hat']
+P5,26:51,2025-08-19T07:36:11.345217,Female,luggage,holding with right hand,instance-15559327-52cc-4496-ab52-ae8803443865,object6,
+P5,27:28,2025-08-19T07:36:48.345217,Female,coffee,holding with left hand,instance-15559327-52cc-4496-ab52-ae8803443865,UNKNOWN:coffee,[no dst match: 'coffee']
+P6,8:30,2025-08-20T05:37:28.031337,man,basket,holding,instance-4365bf88-167a-4de5-b58e-9145d8d18d10,UNKNOWN:basket,[no dst match: 'basket']
+P6,8:33,2025-08-20T05:37:31.031337,man,bottle,holding,instance-4365bf88-167a-4de5-b58e-9145d8d18d10,instance-49cff053-e1ac-4608-9a54-49b3f60e27c8,
+P6,9:00,2025-08-20T05:37:58.031337,girl,Balloon,holding,instance-e3a15c33-9cc1-4d0f-a07f-f4516ea6d13c,9bb23018-1bb1-42f9-bcf3-b1f8a4b96c0d,
+P6,15:30,2025-08-20T05:44:28.031337,man,tray,holding,instance-4365bf88-167a-4de5-b58e-9145d8d18d10,instance-d2c604f4-d8cc-4023-8cf3-87dcbf807d43,
+P7,37:45,2025-08-20T11:23:53.204696,Man,box,holding,instance-e31a7f32-eead-426d-b28e-f76cad91bda6,instance-a0afcbac-48bb-44cf-a84c-fa0966b4a97a,
+P7,38:16,2025-08-20T11:24:24.204696,Woman,box,holding,instance-45b6c4d0-7b0f-467c-8c05-028ebf2b7812,instance-a0afcbac-48bb-44cf-a84c-fa0966b4a97a,
+P7,38:32,2025-08-20T11:24:40.204696,man,Girl,looking at,instance-e31a7f32-eead-426d-b28e-f76cad91bda6,instance-40a5bd78-e6a3-4927-bc48-c5e3ba5410b9,
+P8,13:05,2025-08-21T02:07:19.647029,man,woman,looking at,instance-d3274642-0337-44f0-a41e-92f277f500d8,instance-7e23c39d-2035-4297-84b7-23cc3107a123,
+P8,16:10,2025-08-21T02:10:24.647029,Man,woman,looking at,instance-d3274642-0337-44f0-a41e-92f277f500d8,instance-7e23c39d-2035-4297-84b7-23cc3107a123,
+P8,20:15,2025-08-21T02:14:29.647029,Woman,woman,looking at,instance-7e23c39d-2035-4297-84b7-23cc3107a123,instance-7e23c39d-2035-4297-84b7-23cc3107a123,
+P10,20:40,2025-08-21T10:07:28.065615,Father,basket,holding,instance-fee447db-cd2f-4f4c-a679-9311c569864b,instance-e3fe4e70-111a-4729-a976-3179b2eeeff7,
+P12,30:30,2025-08-22T01:50:21.331618,ballon,Girl,girl is holding balloon in she’s left hand,instance-470847a6-9e2b-4b7b-a62a-f5dd15e69fb2,instance-cf6605bc-2548-41c3-acf8-8dc3ba6a4a66,
+P12,31:31,2025-08-22T01:51:22.331618,bear,Girl,holding teddy on she’s right hand,instance-be533702-47bf-4ce5-8fc8-9354ce35bd3a,instance-cf6605bc-2548-41c3-acf8-8dc3ba6a4a66,
+P12,32:45,2025-08-22T01:52:36.331618,tray,Man,put on his left hand,instance-c5883550-072f-4f33-bfb3-17bf4500b647,instance-72d11b4f-49be-4414-ab8e-e99a9a16affb,
+P12,34:00,2025-08-22T01:53:51.331618,basket,Woman,holding basket with the man,instance-2edeb3dc-1b9c-4a71-a598-40ffe3fb5db1,instance-0f7f81ab-cbed-4ab0-99b5-84f2dbf60965,
+P12,34:20,2025-08-22T01:54:11.331618,basket,male,holding basket with the woman,instance-2edeb3dc-1b9c-4a71-a598-40ffe3fb5db1,instance-fa073d1b-4e8c-436d-8ec2-ee84dbeb7830,
