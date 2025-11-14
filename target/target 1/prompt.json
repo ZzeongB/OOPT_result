@@ -1,0 +1,63 @@
+{
+  "global_caption": "a vibrant scene featuring a woman with a floral dress slightly angled, holding a wicker basket in her right hand, a young man with black hair wearing a blue polo shirt and beige shorts holding a tray and holding hands with an unknown person, a young girl wearing a pink sleeveless top and a white skirt holding a small stuffed bear and a yellow balloon, a tray of water bottles, and an old man wearing a black beret, a light gray cardigan over a white shirt, and dark trousers.",
+  "region_captions": [
+    "a woman with a floral dress slightly angled, holding a wicker basket in her right hand",
+    "a young man with black hair wearing a blue polo shirt and beige shorts holding a tray and holding hands with an unknown person",
+    "a young girl wearing a pink sleeveless top and a white skirt holding a small stuffed bear and a yellow balloon",
+    "a yellow balloon",
+    "a small stuffed bear",
+    "a tray of water bottles",
+    "a wicker basket",
+    "an old man wearing a black beret, a light gray cardigan over a white shirt, and dark trousers"
+  ],
+  "region_bboxes": [
+    [
+      0.232421875,
+      0.279296875,
+      0.4296875,
+      0.880859375
+    ],
+    [
+      0.447265625,
+      0.201171875,
+      0.62890625,
+      0.89453125
+    ],
+    [
+      0.728515625,
+      0.55078125,
+      0.884765625,
+      0.91015625
+    ],
+    [
+      0.8324186950922012,
+      0.4235680624842644,
+      0.9300749450922012,
+      0.5212243124842644
+    ],
+    [
+      0.6644499450922012,
+      0.6950524374842644,
+      0.7777311950922012,
+      0.8727868124842644
+    ],
+    [
+      0.5257780700922012,
+      0.2829430624842644,
+      0.7894499450922012,
+      0.3845055624842644
+    ],
+    [
+      0.33632494509220123,
+      0.4548180624842644,
+      0.49062182009220123,
+      0.6755211874842644
+    ],
+    [
+      -0.01171875,
+      0.345703125,
+      0.14453125,
+      0.92578125
+    ]
+  ]
+}

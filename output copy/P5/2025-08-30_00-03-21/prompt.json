@@ -1,0 +1,14 @@
+{
+  "global_caption": "a scene featuring a white rabbit wearing a blue jacket holding a red balloon",
+  "region_captions": [
+    "a white rabbit wearing a blue jacket holding a red balloon"
+  ],
+  "region_bboxes": [
+    [
+      0.232421875,
+      0.27734375,
+      0.587890625,
+      0.70703125
+    ]
+  ]
+}

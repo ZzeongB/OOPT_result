@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a small village in the forest, one small rabbit, smiling, wearing a blue jacket and hugging a red balloon, and a grown-up rabbit",
+  "region_captions": [
+    "a small village in the forest",
+    "one small rabbit, smiling, is wearing a blue jacket and hugging a red balloon",
+    "a grown-up rabbit"
+  ],
+  "region_bboxes": [
+    [
+      -0.009765625,
+      0.01171875,
+      0.029296875,
+      0.05078125
+    ],
+    [
+      0.43670654296875,
+      0.52734375,
+      0.71405029296875,
+      0.96484375
+    ],
+    [
+      0.02734375,
+      0.421875,
+      0.27734375,
+      0.93359375
+    ]
+  ]
+}

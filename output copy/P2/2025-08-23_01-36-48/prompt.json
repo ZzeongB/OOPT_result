@@ -1,0 +1,14 @@
+{
+  "global_caption": "a scene featuring a small village in the forest",
+  "region_captions": [
+    "a small village in the forest"
+  ],
+  "region_bboxes": [
+    [
+      0.05548095703125,
+      0.15234375,
+      0.15313720703125,
+      0.25
+    ]
+  ]
+}

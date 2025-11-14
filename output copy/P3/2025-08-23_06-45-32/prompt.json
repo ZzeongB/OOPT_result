@@ -1,0 +1,21 @@
+{
+  "global_caption": "a scene featuring a rabbit crying while walking on two feet in a fairy tale illustration, connected to a blue jacket and looking up at a red balloon disappearing into the sky, with the composition of looking down at balloons and rabbits from the sky.",
+  "region_captions": [
+    "a rabbit crying while walking on two feet in a fairy tale illustration, connected to a blue jacket and looking up at a red balloon",
+    "a red balloon disappearing into the sky"
+  ],
+  "region_bboxes": [
+    [
+      0.431640625,
+      0.498046875,
+      0.607421875,
+      0.73046875
+    ],
+    [
+      0.416015625,
+      0.31640625,
+      0.53515625,
+      0.451171875
+    ]
+  ]
+}

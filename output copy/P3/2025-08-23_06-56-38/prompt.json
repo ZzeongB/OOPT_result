@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a rabbit crying and slumping while walking on two feet in a fairy tale illustration, wearing a blue jacket, a crying rabbit wearing red pants walking on two feet in a fairy tale illustration, a crying rabbit wearing a green dress walking on two feet in a fairy tale illustration, and a forest, while one rabbit consoles another rabbit",
+  "region_captions": [
+    "a rabbit crying and slumping while walking on two feet in a fairy tale illustration, wearing a blue jacket",
+    "a crying rabbit wearing red pants walking on two feet in a fairy tale illustration",
+    "a crying rabbit wearing a green dress walking on two feet in a fairy tale illustration",
+    "a forest"
+  ],
+  "region_bboxes": [
+    [
+      0.42578125,
+      0.41796875,
+      0.625,
+      0.720703125
+    ],
+    [
+      0.162109375,
+      0.55859375,
+      0.306640625,
+      0.751953125
+    ],
+    [
+      0.712890625,
+      0.564453125,
+      0.83203125,
+      0.736328125
+    ],
+    [
+      0.01953125,
+      0.029296875,
+      0.958984375,
+      0.931640625
+    ]
+  ]
+}

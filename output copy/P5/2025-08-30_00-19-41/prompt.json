@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a cute, crying, running white rabbit wearing a blue jacket in the forest with an animated character, a red floating balloon, and a wind character cute wickedly smiling.",
+  "region_captions": [
+    "a cute, crying, running white rabbit wearing a blue jacket in the forest with an animated character",
+    "a red floating balloon",
+    "a wind character cute wickedly smiling"
+  ],
+  "region_bboxes": [
+    [
+      0.2421875,
+      0.38671875,
+      0.58203125,
+      0.91796875
+    ],
+    [
+      0.697906494140625,
+      0.080078125,
+      0.861968994140625,
+      0.412109375
+    ],
+    [
+      0.02734375,
+      0.06640625,
+      0.392578125,
+      0.263671875
+    ]
+  ]
+}

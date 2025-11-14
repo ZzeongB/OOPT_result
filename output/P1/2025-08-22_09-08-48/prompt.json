@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a baby rabbit character, a 2D sketch illustration in watercolor style, wearing a dirty blue jacket with mud, running and finding something, an enthusiastic rabbit looking up at the unknown, with a forest background with trees and mud, a 2D illustration in watercolor style, with blur, in rough condition, along with a baby rabbit character in a watercolor illustration, with a bright and passionate face, wearing a dirty green shirt with mud, running and finding something, enthusiastic, and a baby rabbit in a watercolor illustration, with a bright and passionate face, wearing a dirty red shirt with mud, running and finding something, enthusiastic.",
+  "region_captions": [
+    "a baby rabbit character, a 2D sketch illustration in watercolor style, wearing a dirty blue jacket with mud, running and finding something, an enthusiastic rabbit looking up at the unknown",
+    "a forest background with trees and mud, a 2D illustration in watercolor style, with blur, in rough condition",
+    "a baby rabbit character in a watercolor illustration, with a bright and passionate face, wearing a dirty green shirt with mud, running and finding something, enthusiastic",
+    "a baby rabbit in a watercolor illustration, with a bright and passionate face, wearing a dirty red shirt with mud, running and finding something, enthusiastic"
+  ],
+  "region_bboxes": [
+    [
+      0.2734375,
+      0.21875,
+      0.693359375,
+      0.7109375
+    ],
+    [
+      0.863739013671875,
+      0.935546875,
+      0.955535888671875,
+      1.00390625
+    ],
+    [
+      0.582489013671875,
+      0.412109375,
+      0.887176513671875,
+      0.853515625
+    ],
+    [
+      0.074676513671875,
+      0.412109375,
+      0.369598388671875,
+      0.845703125
+    ]
+  ]
+}

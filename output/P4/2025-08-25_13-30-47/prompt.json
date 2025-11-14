@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a real-life bunny that is crying and exhausted, wearing a blue jacket and running vigorously while looking up at something unknown, with tears in its eyes, set against a real-life green forest with many trees swaying towards one side and leaves flying in the air, under a blue sky; along with a crying and exhausted bunny wearing a slightly torn, dirt-covered green shirt, running vigorously, and a crying and exhausted bunny wearing a slightly torn, yellow dress covered in dirt, also running vigorously, while tears fall down from the bunnies.",
+  "region_captions": [
+    "a real-life bunny that is crying and exhausted, wearing a blue jacket and running vigorously, looking up at something unknown, with tears in its eyes",
+    "a real-life green forest with many trees swaying towards one side and leaves flying in the air",
+    "a blue sky",
+    "tears falling down from the bunny",
+    "a crying and exhausted bunny wearing a slightly torn, dirt-covered green shirt, running vigorously",
+    "a crying and exhausted bunny wearing a slightly torn, yellow dress covered in dirt, running vigorously"
+  ],
+  "region_bboxes": [
+    [
+      0.21368815004825592,
+      0.3743055537343025,
+      0.5125162750482559,
+      0.9172743037343025
+    ],
+    [
+      -0.0218098983168602,
+      0.0907118059694767,
+      0.9664713516831398,
+      0.9481336809694767
+    ],
+    [
+      -0.0452473983168602,
+      -0.0342881940305233,
+      0.9547526016831398,
+      0.0672743059694767
+    ],
+    [
+      0.1891276016831398,
+      0.5125868059694767,
+      0.2867838516831398,
+      0.6102430559694767
+    ],
+    [
+      -0.0218098983168602,
+      0.4911024309694767,
+      0.2613932266831398,
+      0.9950086809694767
+    ],
+    [
+      0.3531901016831398,
+      0.3719618059694767,
+      0.6442057266831398,
+      0.9168836809694767
+    ]
+  ]
+}

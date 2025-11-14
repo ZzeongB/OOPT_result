@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a cute rabbit walking on two feet in a fairy tale illustration, Rabbit Village, and another cute rabbit walking on two feet in a fairy tale illustration",
+  "region_captions": [
+    "a cute rabbit walking on two feet in a fairy tale illustration",
+    "Rabbit Village",
+    "a cute rabbit walking on two feet in a fairy tale illustration"
+  ],
+  "region_bboxes": [
+    [
+      0.51171875,
+      0.486328125,
+      0.6875,
+      0.6796875
+    ],
+    [
+      0.060546875,
+      0.138671875,
+      0.84765625,
+      0.896484375
+    ],
+    [
+      0.08984375,
+      0.58203125,
+      0.1875,
+      0.6796875
+    ]
+  ]
+}

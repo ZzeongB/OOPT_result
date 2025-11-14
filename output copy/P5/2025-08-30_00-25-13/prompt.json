@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a smiling cute yellow rabbit with an animated style in the forest, a serious cute black rabbit with an animated character style in the forest, a cute crying white rabbit wearing a blue jacket in the forest with an animated character, and a light bulb",
+  "region_captions": [
+    "a smiling cute yellow rabbit with an animated style in the forest",
+    "a serious cute black rabbit with an animated character style in the forest",
+    "a cute crying white rabbit wearing a blue jacket in the forest with an animated character",
+    "a light bulb"
+  ],
+  "region_bboxes": [
+    [
+      0.621734619140625,
+      0.6015625,
+      0.819000244140625,
+      0.884765625
+    ],
+    [
+      0.652984619140625,
+      0.302734375,
+      0.807281494140625,
+      0.578125
+    ],
+    [
+      0.095703125,
+      0.30859375,
+      0.435546875,
+      0.83984375
+    ],
+    [
+      0.541015625,
+      0.58984375,
+      0.638671875,
+      0.6875
+    ]
+  ]
+}

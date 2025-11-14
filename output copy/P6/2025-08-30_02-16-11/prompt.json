@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a cute rabbit wearing a torn blue jacket searching around a rabbit-looking balloon, a forest background, a cute rabbit wearing a torn green shirt searching around a rabbit-looking balloon, a cute rabbit wearing a torn yellow jacket searching around a rabbit-looking balloon, and a red balloon with no strings stuck on a tree branch",
+  "region_captions": [
+    "a cute rabbit wearing a torn blue jacket searching around a rabbit-looking balloon",
+    "a forest background",
+    "a cute rabbit wearing a torn green shirt searching around a rabbit-looking balloon",
+    "a cute rabbit wearing a torn yellow jacket searching around a rabbit-looking balloon",
+    "a red balloon with no strings stuck on a tree branch"
+  ],
+  "region_bboxes": [
+    [
+      0.390625,
+      0.619140625,
+      0.638671875,
+      0.96875
+    ],
+    [
+      0.021331787109375,
+      0.337890625,
+      0.118988037109375,
+      0.435546875
+    ],
+    [
+      0.726409912109375,
+      0.544921875,
+      0.951019287109375,
+      0.875
+    ],
+    [
+      0.036956787109375,
+      0.484375,
+      0.210784912109375,
+      0.873046875
+    ],
+    [
+      0.41796875,
+      0.2578125,
+      0.515625,
+      0.35546875
+    ]
+  ]
+}

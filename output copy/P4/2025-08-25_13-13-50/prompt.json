@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a bunny wearing a blue jacket with one hand reaching up in the sky with tears in its eyes, looking up at a balloon, alongside a green forest with many trees swaying towards one side with leaves flying in the air, under a blue sky and a red shiny balloon flying away.",
+  "region_captions": [
+    "a bunny wearing a blue jacket with one hand reaching up in the sky with tears in its eyes, looking up at a balloon  ",
+    "a green forest with many trees swaying towards one side with leaves flying in the air  ",
+    "a blue sky  ",
+    "a red shiny balloon flying away  "
+  ],
+  "region_bboxes": [
+    [
+      0.13946940004825592,
+      0.3918836787343025,
+      0.4382975250482559,
+      0.9348524287343025
+    ],
+    [
+      0.005533851683139801,
+      0.1121961809694767,
+      1.2438151016831398,
+      1.0067274309694767
+    ],
+    [
+      -0.0452473983168602,
+      -0.0342881940305233,
+      0.9547526016831398,
+      0.0672743059694767
+    ],
+    [
+      0.662109375,
+      0.0245225690305233,
+      0.802734375,
+      0.1729600690305233
+    ]
+  ]
+}

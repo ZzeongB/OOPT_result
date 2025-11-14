@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a cute rabbit, a rabbit, a cute rabbit, a cute rabbit, a cute rabbit, and a forest background",
+  "region_captions": [
+    "a cute rabbit",
+    "a rabbit",
+    "a cute rabbit",
+    "a cute rabbit",
+    "a cute rabbit",
+    "a forest background"
+  ],
+  "region_bboxes": [
+    [
+      0.111328125,
+      0.517578125,
+      0.216796875,
+      0.658203125
+    ],
+    [
+      0.451171875,
+      0.544921875,
+      0.58984375,
+      0.720703125
+    ],
+    [
+      0.548675537109375,
+      0.759765625,
+      0.706878662109375,
+      0.94921875
+    ],
+    [
+      0.660003662109375,
+      0.560546875,
+      0.757659912109375,
+      0.658203125
+    ],
+    [
+      0.208831787109375,
+      0.74609375,
+      0.306488037109375,
+      0.84375
+    ],
+    [
+      0.294921875,
+      0.2421875,
+      0.392578125,
+      0.33984375
+    ]
+  ]
+}

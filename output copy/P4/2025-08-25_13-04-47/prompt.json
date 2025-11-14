@@ -1,0 +1,56 @@
+{
+  "global_caption": "a scene featuring a bunny wearing a blue jacket, slightly torn and covered with some dirt, holding a red balloon in her hand, smiling and looking up at a tree, a green forest with many trees, a blue sky, a tall tree with the highest branch, a happy bunny wearing a slightly torn yellow dress that is covered in dirt looking up at the tree, a relieved bunny wearing a slightly torn green shirt covered in dirt hanging on the highest branch of the tree looking down at another bunny holding a balloon, and a red shiny balloon stuck on the highest branch of the tree.",
+  "region_captions": [
+    "a bunny wearing a blue jacket, slightly torn and covered with some dirt, holding a red balloon in her hand, smiling and looking up at a tree",
+    "a green forest with many trees",
+    "a blue sky",
+    "a tall tree with the highest branch",
+    "a smiling bunny wearing a slightly torn yellow dress that is covered in dirt, looking up at the tree",
+    "a smiling bunny wearing a slightly torn green shirt covered in dirt, holding something while being in an unspecified location, hanging on the highest branch of the tree, looking down at another bunny holding a balloon",
+    "a red shiny balloon stuck on the highest branch of the tree"
+  ],
+  "region_bboxes": [
+    [
+      0.3152506500482559,
+      0.4982204847037792,
+      0.5632975250482559,
+      0.9669704847037792
+    ],
+    [
+      -0.008138023316860199,
+      0.1091579869389534,
+      0.9508463516831398,
+      0.9822048619389534
+    ],
+    [
+      -0.0218098983168602,
+      0.0056423619389534,
+      0.9547526016831398,
+      0.1169704869389534
+    ],
+    [
+      0.5563151016831398,
+      0.0173611119389534,
+      0.9684244766831398,
+      0.9450954869389534
+    ],
+    [
+      0.1520182266831398,
+      0.4470486119389534,
+      0.3492838516831398,
+      0.9782986119389534
+    ],
+    [
+      0.7086588516831398,
+      0.0232204869389534,
+      0.9332682266831398,
+      0.4197048619389534
+    ],
+    [
+      0.591796875,
+      0.154296875,
+      0.732421875,
+      0.302734375
+    ]
+  ]
+}

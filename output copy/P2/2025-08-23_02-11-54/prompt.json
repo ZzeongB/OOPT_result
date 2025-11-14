@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a small village in the forest, a small rabbit, happy and confident, wearing a blue, dirty jacket with mud and scratched by branches, hugging a red balloon, another small rabbit, happy and confident, wearing a pink, dirty jacket with mud and scratched by branches, with eyes and running, climbing a tree and shaking a branch, a small rabbit, happy and confident, wearing a green, dirty shirt with mud and scratched by branches, with eyes and running, yelling when it finds a balloon and pointing at the balloon with its hand, and a big tree with a red balloon on one of its branches.",
+  "region_captions": [
+    "a small village in the forest",
+    "a small rabbit, happy and confident, wearing a blue, dirty jacket with mud and scratched by branches, hugging a red balloon",
+    "a small rabbit, happy and confident, wearing a pink, dirty jacket with mud and scratched by branches, with eyes and running, climbing a tree and shaking a branch",
+    "a small rabbit, happy and confident, wearing a green, dirty shirt with mud and scratched by branches, with eyes and running, yelling when it finds a balloon and pointing at the balloon with its hand",
+    "a big tree with a red balloon on one of its branches"
+  ],
+  "region_bboxes": [
+    [
+      -0.009765625,
+      0.01171875,
+      0.029296875,
+      0.05078125
+    ],
+    [
+      0.32928466796875,
+      0.560546875,
+      0.60076904296875,
+      0.88671875
+    ],
+    [
+      0.0364227294921875,
+      0.306640625,
+      0.2825164794921875,
+      0.634765625
+    ],
+    [
+      0.0364227294921875,
+      0.658203125,
+      0.3196258544921875,
+      0.98046875
+    ],
+    [
+      0.671875,
+      0.017578125,
+      0.958984375,
+      0.900390625
+    ]
+  ]
+}

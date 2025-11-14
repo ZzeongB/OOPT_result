@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a cute rabbit wearing a torn green shirt holding nothing, a cute rabbit wearing a torn yellow jacket holding nothing on an unknown rabbit with rabbit holding hands with another rabbit, a red balloon with no strings, and a cute smiling rabbit wearing a torn blue jacket, rabbit holding hands with another rabbit.",
+  "region_captions": [
+    "a cute rabbit wearing a torn green shirt holding nothing",
+    "a cute rabbit wearing a torn yellow jacket holding nothing on an unknown rabbit, rabbit holding hands with another rabbit",
+    "a red balloon with no strings",
+    "a cute smiling rabbit wearing a torn blue jacket, rabbit holding hands with another rabbit"
+  ],
+  "region_bboxes": [
+    [
+      0.632659912109375,
+      0.552734375,
+      0.857269287109375,
+      0.8828125
+    ],
+    [
+      -0.015777587890625,
+      0.52734375,
+      0.158050537109375,
+      0.916015625
+    ],
+    [
+      0.3046875,
+      0.0390625,
+      0.40234375,
+      0.13671875
+    ],
+    [
+      0.326171875,
+      0.57421875,
+      0.5546875,
+      0.98046875
+    ]
+  ]
+}

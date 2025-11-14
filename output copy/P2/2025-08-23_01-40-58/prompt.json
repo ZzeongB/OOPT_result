@@ -1,0 +1,21 @@
+{
+  "global_caption": "a scene featuring a small village in the forest, three small rabbits are smiling, and one rabbit is grabbing a red balloon in its hand",
+  "region_captions": [
+    "a small village in the forest",
+    "three small rabbits are smiling, and one rabbit is grabbing a red balloon in its hand"
+  ],
+  "region_bboxes": [
+    [
+      -0.009765625,
+      0.017578125,
+      0.970703125,
+      1
+    ],
+    [
+      0.27264404296875,
+      0.380859375,
+      0.37030029296875,
+      0.478515625
+    ]
+  ]
+}

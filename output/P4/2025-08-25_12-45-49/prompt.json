@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a bunny wearing a slightly torn blue jacket covered with some dirt, looking relieved and holding a red balloon in her hand, a green forest with many trees, a blue sky, and two bunnies standing up and smiling in the background",
+  "region_captions": [
+    "a bunny wearing a slightly torn blue jacket covered with some dirt, looking relieved and holding a red balloon in her hand",
+    "a green forest with many trees",
+    "a blue sky",
+    "two bunnies standing up and smiling in the background"
+  ],
+  "region_bboxes": [
+    [
+      0.2806369364261627,
+      0.2668836787343025,
+      0.6771213114261627,
+      0.9543836787343025
+    ],
+    [
+      -0.0075954869389534,
+      0.2489149309694767,
+      0.9767795130610466,
+      0.9657118059694767
+    ],
+    [
+      -0.00451931357383728,
+      -0.01436632126569748,
+      0.9720431864261627,
+      0.23563367873430252
+    ],
+    [
+      0.12829318642616272,
+      0.4719618037343025,
+      0.3568088114261627,
+      0.7453993037343025
+    ]
+  ]
+}

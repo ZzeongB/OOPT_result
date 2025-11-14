@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a cute rabbit wearing a torn blue jacket searching around, a forest background, a cute rabbit wearing a torn green shirt searching around, and a cute rabbit wearing a torn yellow jacket searching around.",
+  "region_captions": [
+    "a cute rabbit wearing a torn blue jacket searching around",
+    "a forest background",
+    "a cute rabbit wearing a torn green shirt searching around",
+    "a cute rabbit wearing a torn yellow jacket searching around"
+  ],
+  "region_bboxes": [
+    [
+      0.3515625,
+      0.466796875,
+      0.599609375,
+      0.81640625
+    ],
+    [
+      0.294921875,
+      0.142578125,
+      0.392578125,
+      0.240234375
+    ],
+    [
+      0.652191162109375,
+      0.359375,
+      0.876800537109375,
+      0.689453125
+    ],
+    [
+      0.042816162109375,
+      0.333984375,
+      0.216644287109375,
+      0.72265625
+    ]
+  ]
+}

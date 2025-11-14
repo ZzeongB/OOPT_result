@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a dirty smiling cute yellow rabbit with an animated style in the forest, a dirty smiling cute black rabbit with an animated character style in the forest, a dirty cute smiling white rabbit in the forest with an animated character holding a red balloon, and a red balloon.",
+  "region_captions": [
+    "a dirty smiling cute yellow rabbit with an animated style in the forest",
+    "a dirty smiling cute black rabbit with an animated character style in the forest",
+    "a dirty cute smiling white rabbit in the forest with an animated character, holding a balloon",
+    "a red balloon"
+  ],
+  "region_bboxes": [
+    [
+      0.008453369140625,
+      0.4296875,
+      0.246734619140625,
+      0.857421875
+    ],
+    [
+      0.676422119140625,
+      0.3984375,
+      0.897125244140625,
+      0.833984375
+    ],
+    [
+      0.27734375,
+      0.244140625,
+      0.61328125,
+      0.919921875
+    ],
+    [
+      0.506500244140625,
+      0.478515625,
+      0.649078369140625,
+      0.630859375
+    ]
+  ]
+}

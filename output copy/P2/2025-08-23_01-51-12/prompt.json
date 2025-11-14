@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a small village in the forest, a small rabbit, sad and with tears in its eyes, wearing a blue jacket and hugging a red balloon.",
+  "region_captions": [
+    "a small village in the forest",
+    "a small rabbit, sad and with tears in its eyes, wearing a blue jacket and hugging a balloon",
+    "a red balloon"
+  ],
+  "region_bboxes": [
+    [
+      -0.009765625,
+      0.01171875,
+      0.029296875,
+      0.05078125
+    ],
+    [
+      0.43670654296875,
+      0.52734375,
+      0.71405029296875,
+      0.96484375
+    ],
+    [
+      0.4172821044921875,
+      0.01953125,
+      0.5598602294921875,
+      0.326171875
+    ]
+  ]
+}

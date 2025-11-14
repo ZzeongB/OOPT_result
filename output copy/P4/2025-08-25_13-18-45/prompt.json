@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a 3D real life bunny wearing a blue jacket with one hand reaching up in the sky and tears falling down from its eyes, looking up at a balloon, alongside a real life green forest with many trees swaying towards one side with leaves flying in the air, under a blue sky and a red shiny balloon with a string hanging down, flying away.",
+  "region_captions": [
+    "a 3D real life bunny wearing a blue jacket with one hand reaching up in the sky and tears falling down from its eyes, looking up at a balloon",
+    "a real life green forest with many trees swaying towards one side with leaves flying in the air",
+    "a blue sky",
+    "a red shiny balloon with a string hanging down, flying away"
+  ],
+  "region_bboxes": [
+    [
+      0.13946940004825592,
+      0.4318142347037792,
+      0.4382975250482559,
+      0.9747829847037792
+    ],
+    [
+      0.005533851683139801,
+      0.1521267369389534,
+      1.2438151016831398,
+      1.0466579869389534
+    ],
+    [
+      -0.0452473983168602,
+      0.0056423619389534,
+      0.9547526016831398,
+      0.1072048619389534
+    ],
+    [
+      0.62890625,
+      0.06640625,
+      0.8515625,
+      0.318359375
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a cute white rabbit with animation character style in the forest wearing a blue jacket and holding a red balloon, a cute white rabbit with an animated style in the forest, a cute white rabbit with an animated character style in the forest, a cute blue rabbit with an animated character style in the forest, a cute black rabbit with an animated character style in the forest, and a cute white rabbit with an animated character style in the forest",
+  "region_captions": [
+    "a cute white rabbit with animation character style in the forest wearing a blue jacket and holding a red balloon",
+    "a cute white rabbit with an animated style in the forest",
+    "a cute white rabbit with an animated character style in the forest",
+    "a cute blue rabbit with an animated character style in the forest",
+    "a cute black rabbit with an animated character style in the forest",
+    "a cute white rabbit with an animated character style in the forest"
+  ],
+  "region_bboxes": [
+    [
+      0.201171875,
+      0.44140625,
+      0.45703125,
+      0.875
+    ],
+    [
+      0.486968994140625,
+      0.5703125,
+      0.695953369140625,
+      0.876953125
+    ],
+    [
+      0.463531494140625,
+      0.255859375,
+      0.578765869140625,
+      0.4140625
+    ],
+    [
+      0.020172119140625,
+      0.23046875,
+      0.174468994140625,
+      0.55078125
+    ],
+    [
+      0.608062744140625,
+      0.25,
+      0.762359619140625,
+      0.525390625
+    ],
+    [
+      0.801422119140625,
+      0.318359375,
+      0.932281494140625,
+      0.572265625
+    ]
+  ]
+}

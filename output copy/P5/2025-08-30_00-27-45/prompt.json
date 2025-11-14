@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a running smiling cute yellow rabbit with an animated style in the forest, a running smiling cute black rabbit with an animated character style in the forest, and a cute crying white rabbit wearing a torn and muddy blue jacket in the forest with an animated character",
+  "region_captions": [
+    "a running smiling cute yellow rabbit with an animated style in the forest",
+    "a running smiling cute black rabbit with an animated character style in the forest",
+    "a cute crying white rabbit wearing a torn and muddy blue jacket in the forest with an animated character"
+  ],
+  "region_bboxes": [
+    [
+      0.651031494140625,
+      0.6015625,
+      0.848297119140625,
+      0.884765625
+    ],
+    [
+      0.485015869140625,
+      0.32421875,
+      0.670562744140625,
+      0.64453125
+    ],
+    [
+      0.095703125,
+      0.255859375,
+      0.447265625,
+      0.83984375
+    ]
+  ]
+}

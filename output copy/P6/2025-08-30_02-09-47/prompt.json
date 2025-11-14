@@ -1,0 +1,21 @@
+{
+  "global_caption": "a scene featuring a cute rabbit wearing a blue jacket standing and crying while looking at a red balloon with no strings far above him that he lost, with a forest background.",
+  "region_captions": [
+    "a cute rabbit wearing a blue jacket standing and crying while looking at a red balloon with no strings far above him that he lost",
+    "a forest background"
+  ],
+  "region_bboxes": [
+    [
+      0.072265625,
+      0.529296875,
+      0.431640625,
+      0.88671875
+    ],
+    [
+      0.294921875,
+      0.193359375,
+      0.392578125,
+      0.291015625
+    ]
+  ]
+}

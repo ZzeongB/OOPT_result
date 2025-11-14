@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a baby rabbit character in a 2D sketch illustration in watercolor style, wearing a dirty blue jacket with mud, surprised, looking up at an unknown object, a rabbit looking up at a tree, a forest background with trees and mud, a 2D illustration in watercolor style, with a blur effect and sunny atmosphere, a baby rabbit character in a watercolor illustration with a bright and passionate face, wearing a dirty green shirt with mud, a bright face with a smile, found something, one arm reaching up, pointing at something, a rabbit looking and pointing at a tree, a baby rabbit in a watercolor illustration with a bright and passionate face, wearing a dirty red shirt with mud, surprised, looking up at a rabbit looking up at a tree, a big tree with branches, and a red balloon illustrated in a 2D watercolor sketch, a balloon stuck in the tree.",
+  "region_captions": [
+    "a baby rabbit character in a 2D sketch illustration in watercolor style, wearing a dirty blue jacket with mud, surprised, looking up at an unknown object, a rabbit looking up at a tree",
+    "a forest background with trees and mud, a 2D illustration in watercolor style, with a blur effect, sunny",
+    "a baby rabbit character in a watercolor illustration with a bright and passionate face, wearing a dirty green shirt with mud, a bright face with a smile, found something, one arm reaching up, pointing at something, a rabbit looking and pointing at a tree",
+    "a baby rabbit in a watercolor illustration with a bright and passionate face, wearing a dirty red shirt with mud, surprised, looking up at a rabbit looking up at a tree",
+    "a big tree with branches",
+    "a red balloon illustrated in a 2D watercolor sketch, a balloon stuck in the tree"
+  ],
+  "region_bboxes": [
+    [
+      0.125,
+      0.34765625,
+      0.466796875,
+      0.80859375
+    ],
+    [
+      -0.019073486328125,
+      -0.015625,
+      0.959442138671875,
+      1.005859375
+    ],
+    [
+      0.359832763671875,
+      0.416015625,
+      0.664520263671875,
+      0.857421875
+    ],
+    [
+      0.012176513671875,
+      0.494140625,
+      0.307098388671875,
+      0.927734375
+    ],
+    [
+      0.54296875,
+      0.064453125,
+      0.84375,
+      0.904296875
+    ],
+    [
+      0.728973388671875,
+      0.12890625,
+      0.922332763671875,
+      0.39453125
+    ]
+  ]
+}

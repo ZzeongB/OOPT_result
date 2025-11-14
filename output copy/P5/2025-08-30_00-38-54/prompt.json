@@ -1,0 +1,42 @@
+{
+  "global_caption": "a scene featuring a smiling cute yellow rabbit with an animated style in the forest on a tree, a running smiling cute black rabbit with an animated character style looking at a tree in the forest while the rabbit looks at a balloon, a cute smiling white rabbit wearing a torn, muddy, and dirty blue jacket in the forest with an animated character while looking at a balloon, a big tree on the rabbit with a tree on the balloon, and a red balloon on the tree",
+  "region_captions": [
+    "a smiling cute yellow rabbit with an animated style in the forest on a tree",
+    "a running smiling cute black rabbit with an animated character style looking at a tree in the forest, with the rabbit looking at a balloon",
+    "a cute smiling white rabbit wearing a torn, muddy, and dirty blue jacket in the forest with an animated character, with the rabbit looking at a balloon",
+    "a big tree on the rabbit, with a tree on the balloon",
+    "a red balloon on the tree"
+  ],
+  "region_bboxes": [
+    [
+      0.533843994140625,
+      0.025390625,
+      0.692047119140625,
+      0.21875
+    ],
+    [
+      0.727203369140625,
+      0.509765625,
+      0.934234619140625,
+      0.90234375
+    ],
+    [
+      0.03515625,
+      0.384765625,
+      0.30078125,
+      0.900390625
+    ],
+    [
+      0.365875244140625,
+      0.17578125,
+      0.695953369140625,
+      0.9765625
+    ],
+    [
+      0.350250244140625,
+      0.041015625,
+      0.492828369140625,
+      0.193359375
+    ]
+  ]
+}

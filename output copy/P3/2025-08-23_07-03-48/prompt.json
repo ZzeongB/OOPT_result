@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a crying rabbit slumping while walking on two feet in a fairy tale illustration, wearing a blue jacket, a crying rabbit wearing a green dress walking on two feet in a fairy tale illustration pointing at a distant balloon, a forest, and a red balloon hanging from a tree.",
+  "region_captions": [
+    "a crying rabbit slumping while walking on two feet in a fairy tale illustration, wearing a blue jacket",
+    "a crying rabbit, wearing a green dress, walking on two feet in a fairy tale illustration, pointing at a distant balloon",
+    "a forest",
+    "a red balloon hanging from a tree"
+  ],
+  "region_bboxes": [
+    [
+      0.263671875,
+      0.43359375,
+      0.462890625,
+      0.736328125
+    ],
+    [
+      0.5390625,
+      0.53125,
+      0.658203125,
+      0.703125
+    ],
+    [
+      0.00390625,
+      0.01953125,
+      0.9609375,
+      0.974609375
+    ],
+    [
+      0.638671875,
+      0.17578125,
+      0.736328125,
+      0.2734375
+    ]
+  ]
+}

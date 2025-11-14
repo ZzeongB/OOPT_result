@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a baby rabbit character, a 2D sketch illustration, wearing a blue jacket, with a brightly smiling face, cuddling a balloon, alongside an adult rabbit in an illustration with a character, talking to another rabbit, with a red balloon in a 2D sketch illustration, set against a forest background in a 2D illustration style with blur.",
+  "region_captions": [
+    "a baby rabbit character, a 2D sketch illustration, wearing a blue jacket, with a brightly smiling face, cuddling a balloon",
+    "an adult rabbit in an illustration with a character, talking to another rabbit",
+    "a red balloon, in a 2D sketch illustration",
+    "a forest background, in a 2D illustration style, with blur"
+  ],
+  "region_bboxes": [
+    [
+      0.5,
+      0.490234375,
+      0.90234375,
+      0.90625
+    ],
+    [
+      0.004364013671875,
+      0.373046875,
+      0.443817138671875,
+      0.84765625
+    ],
+    [
+      0.470703125,
+      0.470703125,
+      0.67578125,
+      0.755859375
+    ],
+    [
+      -0.0234375,
+      -0.037109375,
+      1.06640625,
+      1.017578125
+    ]
+  ]
+}

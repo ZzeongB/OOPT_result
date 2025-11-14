@@ -1,0 +1,49 @@
+{
+  "global_caption": "a scene featuring a cute smiling rabbit wearing a torn blue jacket holding a balloon, a forest background, a cute rabbit wearing a torn green shirt holding nothing, a cute rabbit wearing a torn yellow jacket holding nothing with a rabbit on a tree, a red balloon with no strings, and a tree with many branches.",
+  "region_captions": [
+    "a cute smiling rabbit wearing a torn blue jacket holding a balloon",
+    "a forest background",
+    "a cute rabbit wearing a torn green shirt holding nothing",
+    "a cute rabbit wearing a torn yellow jacket holding nothing with a rabbit on a tree",
+    "a red balloon with no strings",
+    "a tree with many branches"
+  ],
+  "region_bboxes": [
+    [
+      0.2578125,
+      0.5859375,
+      0.513671875,
+      0.94140625
+    ],
+    [
+      0.339691162109375,
+      -0.033203125,
+      0.960784912109375,
+      0.576171875
+    ],
+    [
+      0.683441162109375,
+      0.619140625,
+      0.908050537109375,
+      0.94921875
+    ],
+    [
+      0.072113037109375,
+      -0.00390625,
+      0.245941162109375,
+      0.384765625
+    ],
+    [
+      0.4296875,
+      0.8125,
+      0.52734375,
+      0.91015625
+    ],
+    [
+      0.003753662109375,
+      0.171875,
+      0.181488037109375,
+      0.966796875
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a cute little child rabbit walking on two feet, connected to a blue jacket in a fairy tale illustration, a Rabbit Village with a parade, and an adult rabbit walking on two feet, wearing a fedora and a black suit in a fairy tale illustration, giving a red balloon.",
+  "region_captions": [
+    "a cute little child rabbit walking on two feet, connected to a blue jacket in a fairy tale illustration",
+    "a Rabbit Village with a parade",
+    "an adult rabbit walking on two feet, wearing a fedora and a black suit in a fairy tale illustration, giving a red balloon",
+    "a red balloon"
+  ],
+  "region_bboxes": [
+    [
+      0.66796875,
+      0.376953125,
+      0.84375,
+      0.609375
+    ],
+    [
+      0.013671875,
+      -0.009765625,
+      0.958984375,
+      0.9375
+    ],
+    [
+      0.224609375,
+      0.18359375,
+      0.548828125,
+      0.70703125
+    ],
+    [
+      0.5234375,
+      0.22265625,
+      0.642578125,
+      0.357421875
+    ]
+  ]
+}

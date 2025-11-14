@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a cute rabbit standing and smiling while wearing a blue jacket and holding a red balloon, against a forest background",
+  "region_captions": [
+    "a cute rabbit is standing and smiling while wearing a blue jacket and holding a red balloon",
+    "a forest background",
+    "a red balloon"
+  ],
+  "region_bboxes": [
+    [
+      0.189453125,
+      0.521484375,
+      0.548828125,
+      0.87890625
+    ],
+    [
+      0.294921875,
+      0.193359375,
+      0.392578125,
+      0.291015625
+    ],
+    [
+      0.564300537109375,
+      0.267578125,
+      0.736175537109375,
+      0.462890625
+    ]
+  ]
+}

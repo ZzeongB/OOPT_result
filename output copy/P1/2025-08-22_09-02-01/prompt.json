@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a baby rabbit character, a 2D sketch illustration in watercolor style, wearing a blue jacket, talking with a worrying face, staying still, looking up at an unknown object, and watching another rabbit, with a forest background, a 2D illustration in watercolor style, blurred, with windy weather, alongside a baby rabbit character in a watercolor illustration, with a bright and passionate face, wearing a green shirt, talking to another rabbit, and a baby rabbit in a watercolor illustration, with a bright and passionate face, wearing a red shirt, talking to another rabbit.",
+  "region_captions": [
+    "a baby rabbit character, a 2D sketch illustration in watercolor style, wearing a blue jacket, talking with a worrying face, staying still, looking up at an unknown object, and watching another rabbit",
+    "a forest background, a 2D illustration in watercolor style, blurred, with windy weather",
+    "a baby rabbit character in a watercolor illustration, with a bright and passionate face, wearing a green shirt, talking to another rabbit",
+    "a baby rabbit in a watercolor illustration, with a bright and passionate face, wearing a red shirt, talking to another rabbit"
+  ],
+  "region_bboxes": [
+    [
+      0.470703125,
+      0.333984375,
+      0.890625,
+      0.826171875
+    ],
+    [
+      -0.005401611328125,
+      -0.013671875,
+      0.969207763671875,
+      0.95703125
+    ],
+    [
+      0.201629638671875,
+      0.4375,
+      0.506317138671875,
+      0.87890625
+    ],
+    [
+      0.033660888671875,
+      0.375,
+      0.328582763671875,
+      0.80859375
+    ]
+  ]
+}

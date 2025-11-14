@@ -1,0 +1,35 @@
+{
+  "global_caption": "a scene featuring a small village in the forest, a small rabbit, sad and confident, wearing a blue jacket with tears in its eyes, a happy small confident rabbit wearing a green shirt with tears in its eyes, and a small happy confident rabbit wearing a pink shirt with tears in its eyes.",
+  "region_captions": [
+    "a small village in the forest",
+    "a small rabbit, sad and confident, wearing a blue jacket, with tears in its eyes",
+    "a happy small confident rabbit wearing a green shirt, with tears in its eyes",
+    "a small, happy, confident rabbit wearing a pink shirt, with tears in its eyes"
+  ],
+  "region_bboxes": [
+    [
+      -0.009765625,
+      -0.02734375,
+      0.029296875,
+      0.01171875
+    ],
+    [
+      0.33123779296875,
+      0.431640625,
+      0.63397216796875,
+      0.931640625
+    ],
+    [
+      0.0071258544921875,
+      0.435546875,
+      0.2922821044921875,
+      0.9375
+    ],
+    [
+      0.6633758544921875,
+      0.421875,
+      0.9758758544921875,
+      0.943359375
+    ]
+  ]
+}

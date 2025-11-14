@@ -1,0 +1,28 @@
+{
+  "global_caption": "a scene featuring a baby rabbit character in a 2D sketch illustration in watercolor style, wearing a blue jacket, paused while running with tears in panic, showing its back and looking above a red balloon, alongside a red balloon in a 2D sketch illustration in watercolor style, far in the sky, set against a forest background in a 2D illustration in watercolor style, with a blur and windy weather.",
+  "region_captions": [
+    "a baby rabbit character in a 2D sketch illustration in watercolor style, wearing a blue jacket, paused while running with tears in panic, showing its back and looking above a red balloon",
+    "a red balloon in a 2D sketch illustration in watercolor style, far in the sky",
+    "a forest background in a 2D illustration in watercolor style, with a blur, and windy weather"
+  ],
+  "region_bboxes": [
+    [
+      0.216796875,
+      0.392578125,
+      0.619140625,
+      0.85546875
+    ],
+    [
+      0.46484375,
+      0.048828125,
+      0.623046875,
+      0.306640625
+    ],
+    [
+      -0.005401611328125,
+      0.025390625,
+      0.969207763671875,
+      1.001953125
+    ]
+  ]
+}

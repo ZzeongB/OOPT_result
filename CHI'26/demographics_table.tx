@@ -1,0 +1,29 @@
+\begin{table}
+\caption{Participant demographics}
+\label{tab:demographics}
+\begin{tabular}{lllllllllllllllll}
+\toprule
+user\_id & session\_id & timestamp & language & system\_order & age & gender & occupation & ai\_tool\_types & ai\_frequency & ai\_purposes & ai\_proficiency & english\_level & programming\_duration & programming\_languages & programming\_contexts & programming\_proficiency \\
+\midrule
+P3 & 5c80c448-3160-44a9-a933-407b23b40792 & 2025-08-14T03:45:46.796547 & ko & system1\_first & 22 & male & 대학생 & text, image, video & daily & study, work & 6 & intermediate & 1-3 & python, java, r, cpp & data, research, ml & 5 \\
+p2 & 319db85e-7d37-4224-a79e-d77ee523d8c7 & 2025-08-14T01:16:33.917189 & ko & system2\_first & 22 & male & 학생 & text, image & daily & work & 6 & fluent & >3 & javascript, python, typescript, cpp & web, research, automation & 5 \\
+P1 & f3a98b52-1140-468d-8d62-b41701528433 & 2025-08-24T11:24:06.969567 & ko & system1\_first & 23 & female & 대학생 & text, image & daily & study, work & 5 & fluent & 1-3 & python & data, ml & 4 \\
+P5 & 9b200cbe-6fff-4d2a-845e-ad426c3baeb2 & 2025-08-19T07:08:17.565342 & ko & system2\_first & 23 & male & student & image, text & daily & study & 4 & intermediate & never & matlab & other & 1 \\
+P4 & 4063f7b6-6eee-437c-9525-71078de215db & 2025-08-14T13:39:43.770917 & ko & system1\_first & 25 & male & 학생 & text & weekly & work, study & 6 & intermediate & never & matlab & data & 2 \\
+P6 & 068230a3-a4f5-4548-a76e-f1f14dd2eb25 & 2025-08-20T05:31:10.031337 & ko & system2\_first & 24 & male & 학부생 & text, image & daily & creative, study & 5 & intermediate & >3 & javascript, typescript, cpp, c & web & 5 \\
+P7 & 278d53ee-f994-4f35-ac62-ee54bfdfeeb7 & 2025-08-20T10:43:05.520903 & ko & system1\_first & 25 & male & 대학원생 & image, text & daily & study, work & 5 & fluent & <1 & python & data, research, other & 2 \\
+P7 & f4f51ef5-bb84-4469-a68f-04a3780fd0af & 2025-08-20T10:45:46.244565 & ko & system1\_first & 25 & male & 대학원생 & text, image & daily & study, work & 5 & fluent & <1 & python & data, research, other & 2 \\
+P9 & b5608c2c-7952-4684-8ef2-38230f78517d & 2025-08-22T13:25:35.646607 & ko & system1\_first & 22 & female & 대학생 & text, image & weekly & work, study & 4 & fluent & never & none & none & 2 \\
+P8 & d0d84f7d-149a-4397-8b5d-f46fc4be03ed & 2025-08-21T01:56:36.647029 & ko & system2\_first & 22 & female & 학생 & text & weekly & study & 3 & intermediate & never & python & other & 1 \\
+P12 & 167a73b9-bd59-4e32-a1ab-b0de4c57ab2c & 2025-08-22T01:34:51.331618 & ko & system2\_first & 21 & female & 대학생 & text, image & weekly & entertainment & 3 & intermediate & 1-3 & python, java, cpp, matlab & data, web, research, ml & 4 \\
+P1 & e5466056-3354-4623-8ea1-e8a18af6d601 & 2025-08-22T08:30:42.972021 & ko & system2\_first & 21 & female & 대학생 & text, audio, image, video & monthly & creative, study & 5 & intermediate & 1-3 & javascript, python, java & web & 2 \\
+P11 & 9f6ed6d6-aca3-4e0a-9f55-fd2d1f73ef64 & 2025-08-23T08:49:54.222715 & ko & system2\_first & 23 & male & 대학생 & text & monthly & study & 2 & fluent & never & none & none & 1 \\
+P2 & 5a569202-eeea-41bb-9e3a-68dda74fa20c & 2025-08-23T01:31:45.768791 & ko & system2\_first & 25 & male & 대학생 & text, image & daily & study, work & 7 & fluent & >3 & python, cpp, c, swift & web, data, research, games, mobile, ml, automation & 7 \\
+P3 & 6c77a175-b038-4777-8ac4-52eb443031ec & 2025-08-23T06:15:43.813391 & ko & system2\_first & 22 & male & 대학생 & text, video & daily & work, study, creative, entertainment, other & 5 & intermediate & >3 & javascript, python, cpp & data, web, research, games, automation & 6 \\
+p10 & e840e74f-78da-492b-94cd-51b9fb96c1c0 & 2025-08-21T09:32:39.563712 & ko & system1\_first & 26 & female & 대학원생 & text & daily & study & 4 & intermediate & <1 & c & research & 2 \\
+P6 & 56ad08db-2913-4791-82ee-e1f328d5feca & 2025-08-30T01:51:32.630419 & ko & system2\_first & 28 & female & 학생 & text, image, video & daily & work, study & 4 & fluent & <1 & python & data, research & 2 \\
+P4 & 60574dc3-f482-4ae5-a84f-c8056856e65a & 2025-08-25T12:36:42.993017 & ko & system2\_first & 22 & female & 학생 & text, image & daily & work, study, creative & 5 & fluent & <1 & python, r & data, research & 3 \\
+P5 & c8a11a37-2a2a-4691-84d9-7d4c35c7cc61 & 2025-08-29T23:59:30.158284 & ko & system2\_first & 25 & female & 대학원생 & text, image, video, audio & daily & work, study & 5 & intermediate & >3 & cpp, python, matlab & research, ml, automation & 4 \\
+\bottomrule
+\end{tabular}
+\end{table}
